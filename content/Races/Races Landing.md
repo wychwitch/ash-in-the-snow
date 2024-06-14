@@ -1,6 +1,6 @@
 ---
 publish-ash: true
-modified: 2024-06-13T19:56:55-05:00
+modified: 2024-06-13T20:06:24-05:00
 created: 2024-01-01T00:00:00
 ---
 All races can have half-races with Plainsfolks, though some are rare.
@@ -17,6 +17,7 @@ Dragonfolk refers to Dragonborn, Dragons, Half-dragons, kobolds. Confusing?? Yes
 	- To avoid some common issues plague dwarves portrayal in media and also cos I just think it's cool: culture wise they focus more on the art of making cool shit with metal instead of hoarding GOld Like dragons
 	- Tend to live in larger communities
 - Elves
+- Halflings
 - Dragonborn
 
 ## Uncommon
@@ -30,7 +31,6 @@ Dragonfolk refers to Dragonborn, Dragons, Half-dragons, kobolds. Confusing?? Yes
     - Hobgoblins have axolotl-type horns and are usually more frail and coldblooded than normal. They WILL die of immediate exposure. As a result they're very rare and when you do see them they're usually so wrapped up in clothes you can only see the glint of their eyes and their horns sticking outta their layers of clothing. Their trade off is that they are usually extremely adept at magic and become religious leaders
     - It's not uncommon to see traveling bands of goblin merchants, since they tend to have a surplus of the supplies they make to keep themselves warm.
     - Kind of froggy.
-- Halflings
 - Tieflings
 - Minotaur (Yak)
 - Loxodon (Mammoth)
