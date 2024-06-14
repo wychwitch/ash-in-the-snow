@@ -37,6 +37,6 @@ modified: 2024-06-12T11:50:06-05:00
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
 
-Big tough gentle giant from [[../Geography/Locations/Bur-Vusamyr|Bur-Vusamyr]]. Travelling with [[Ash In the Snow/People/Axiom|Axiom]] and [[Ash In the Snow/People/Zilver|Zilver]], with Zilver as their ward.
+Big tough gentle giant from [[../Geography/Locations/Ber-Vusamyr|Ber-Vusamyr]]. Travelling with [[Ash In the Snow/People/Axiom|Axiom]] and [[Ash In the Snow/People/Zilver|Zilver]], with Zilver as their ward.
 
 
