@@ -9,12 +9,11 @@ INT: 0
 WIS: 0
 CHA: 0
 created: 2024-01-01T00:00
-modified: 2024-06-14T11:23:59-05:00
+modified: 2024-06-14T12:22:13-05:00
 pronouns: He/Him
 ash-class: "[[Bard]]"
 race: Elf/Tiefling
-cssclasses:
-  - page-white
+cssclasses: []
 age: "36"
 occupation: Diplomatic Attaché of the City of Hillcrest
 ---
