@@ -9,10 +9,10 @@ INT: 0
 WIS: 0
 CHA: 0
 ash-class: "[[Wizard]]"
-short-desc: A brilliant scholar from [[Bur-Vusamyr|Bur-Vusamyr]]. Travelling with [[Ash In the Snow/People/Axiom|Axiom]] and [[Ash In the Snow/People/Zilver|Zilver]], with Zilver as their ward.
+short-desc: A brilliant scholar from [[Bur-Vusamyr|Bur-Vusamyr]]. Travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
 pronouns: 
 race: Dragonborn
-modified: 2024-06-12T11:57:42-05:00
+modified: 2024-06-13T19:59:17-05:00
 created: 2024-01-01T00:00
 ---
 
@@ -40,6 +40,6 @@ created: 2024-01-01T00:00
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
 
-A brilliant scholar from [[Bur-Vusamyr|Bur-Vusamyr]]. Travelling with [[Ash In the Snow/People/Axiom|Axiom]] and [[Ash In the Snow/People/Zilver|Zilver]], with Zilver as their ward.
+A brilliant scholar from [[Bur-Vusamyr|Bur-Vusamyr]]. Travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
 
 
