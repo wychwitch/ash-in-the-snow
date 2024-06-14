@@ -10,7 +10,7 @@ INT: 0
 WIS: 0
 CHA: 0
 pronouns: He/They
-short-desc: A supposed prince from [[Bur-Vusamyr|Bur-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions.
+short-desc: A supposed prince from [[Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions.
 ash-class: "[[Wizard]]"
 ash-aliases: 
 race: Human/Dragon(?)
@@ -19,7 +19,7 @@ hometown: "[[Ber-Vusamyr]]"
 age: 
 relations: Axiom and Moonie
 created: 2024-01-01T00:00
-modified: 2024-06-13T19:58:33-05:00
+modified: 2024-06-13T20:04:44-05:00
 ---
 
 > [!infobox]
@@ -47,6 +47,6 @@ modified: 2024-06-13T19:58:33-05:00
 > | **CHA**  | 0     |
 
 
-A supposed prince from [[Bur-Vusamyr|Bur-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions.
+A supposed prince from [[Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions.
 
 
