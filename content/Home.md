@@ -5,14 +5,12 @@ publish-ash: true
 title: Home
 description: This is a world of snow and warmth. A world of disconnection and unbreakable bonds. This is the story of Ash in the Snow.
 cssclasses: []
-modified: 2024-06-12T13:01:51-05:00
+modified: 2024-06-13T18:42:08-05:00
 ---
 This is a world of snow and warmth. A world of disconnection and unbreakable bonds. This is the story of Ash in the Snow.
 
 *Embed Photo by <a href="https://unsplash.com/@michael75?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Michael</a> on <a href="https://unsplash.com/photos/snow-covered-pine-tree-under-cloudy-sky-S4lRLPNs_P0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>*
 
-
-# This is a **test** NOT ANYMORE!!!!!!!!
 ## Important Links
 [[./People/People Landing|People Landing]]
 [[./Meta/Chasing Adventure Info/Moves/Moves Landing|Moves Landing]]
@@ -45,17 +43,17 @@ The world is amidst an ice age, one that is only getting worse with time.  perpe
 However, thanks to an ancient and magical items called [[./Lore/Fallen Suns|Fallen Suns]], many towns and cities are protected from the cold, the reach of the small sun's warmth creating a practically perpetual fall. Still chilly, but plants can grow and the townsfolk don't need to fear from snow outside of the deepest parts of winter.
 
 ### Society
-Looking from above, region Havenloft is a shattered society. Whatever remnants of a once proud and uniting kingdom only survives through tales and snow-buried ruins. Instead, people gather around pockets of warmth provided by floating **Fallen Suns** and form their own societies. So cut off from each other, many have developed their own cultures and beliefs. 
+Looking from above, the continent of Havenloft is a shattered society. Whatever remnants of a once proud and uniting kingdom only survives through tales and snow-buried ruins. Instead, people gather around pockets of warmth provided by floating **Fallen Suns** and form their own societies. So cut off from each other, many have developed their own cultures and beliefs. 
 
 Because of how difficult it is to navigate the world, it is not fully mapped out. Some people are trying to change that however.
 
-Despite how cut off people are from one another, there are still many roads that are kept as clear and maintained as possible to facilitate travel. Most travel during the summer month
+Despite how cut off people are from one another, there are still many roads that are kept as clear and maintained as possible to facilitate travel. Most travel during the summer month.
 
 There are *many* theories as to where the winter came from, everything from an Ice Witch, a figured called The Great Lich, the sins of humanity, nature, etc. Some say the world has always been this way, and anyone who claim otherwise are strange folk.
 
 The moon, being the opposite of the sun, is deeply connected to snow and the winter in many cultures. Being out on a full moon is considered unlucky
 ## Flora, Fauna, and Faethings
-- [[Ash In The Snow/Lore/Fallen Suns|Fallen Suns]]
+- [[./Lore/Fallen Suns|Fallen Suns]]
     - Mysterious orbs of light and warmth. They look like small suns, floating above the towns that formed around them, providing a protective shield from the cold outside. Bizarrely, if you attempt to move them too far from their initial location, they will immediately go out.
     - Every four years they need to be recharged by harvesting energy from one of many locations where multiple leylines converge. However, since the leylines constantly shift, the only way to find them is through scrying.
         - Some places pay handsomely, some places do it on principal.
