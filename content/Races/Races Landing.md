@@ -1,6 +1,7 @@
 ---
 publish-ash: true
-modified: 2024-06-13T20:34:37-04:00
+modified: 2024-06-13T19:56:55-05:00
+created: 2024-01-01T00:00:00
 ---
 All races can have half-races with Plainsfolks, though some are rare.
 
