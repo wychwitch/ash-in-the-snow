@@ -9,9 +9,9 @@ INT: 0
 WIS: 0
 CHA: 0
 created: 2024-01-01T00:00
-modified: 2024-06-12T11:48:31-05:00
+modified: 2024-06-13T19:45:33-05:00
 pronouns: He/Him
-ash-class: "[[Ash In the Snow/Meta/Moves/Bard|Bard]]"
+ash-class: "[[Bard]]"
 race: Elf/Tiefling
 cssclasses:
   - page-white
