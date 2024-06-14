@@ -5,7 +5,7 @@ publish-ash: true
 title: Home
 description: This is a world of snow and warmth. A world of disconnection and unbreakable bonds. This is the story of Ash in the Snow.
 cssclasses: 
-modified: 2024-06-13T19:53:20-05:00
+modified: 2024-06-13T20:07:05-05:00
 created: 2024-01-01T00:00
 ---
 This is a world of snow and warmth. A world of disconnection and unbreakable bonds. This is the story of Ash in the Snow.
@@ -29,7 +29,7 @@ This is a world of snow and warmth. A world of disconnection and unbreakable bon
 
 
 ## Geography
-Havenloft is the colloquial name given to the large continent (and nearby islands) north of the equator of The World. This name can vary between societies and their people, but like Common (the still mostly ubiquitous language of the old, continent-spanning kingdom), people mostly recognize it as such. Other continents and countries exist, but due to massive glaciers only few crews are brave enough to travel to distant lands. 
+[[./Geography/Havenloft|Havenloft]] is the colloquial name given to the large continent (and nearby islands) north of the equator of The World. This name can vary between societies and their people, but like Common (the still mostly ubiquitous language of the old, continent-spanning kingdom), people mostly recognize it as such. Other continents and countries exist, but due to massive glaciers only few crews are brave enough to travel to distant lands. 
 
 The World has one sun and one moon, known as Vala, though the moon circles the earth much slower, lasting about four "months" of our time, or one entire season. 
 - **Sommerherald** = spring 
