@@ -1,11 +1,13 @@
 ---
 publish-ash: true
+created: 2024-01-01T00:00:00
+modified: 2024-06-13T19:54:18-05:00
 ---
 Moves are where nearly all the mechanics in Chasing Adventure live in. Here are the basic ones.
 
 You can find the moves for each playbook here:
 
-- [[Ash In the Snow/Meta/Moves/Barbarian|Barbarian]]
+- [[Barbarian|Barbarian]]
 - [[Ash In the Snow/Meta/Moves/Bard|Bard]]
 - [[Ash In the Snow/Meta/Moves/Cleric|Cleric]]
 	- [[./Cleric Spells|Cleric Spells]]
