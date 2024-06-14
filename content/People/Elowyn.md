@@ -19,7 +19,7 @@ hometown:
 age: 
 relations: 
 created: 2024-04-22T11:00:00
-modified: 2024-06-12T11:57:30-05:00
+modified: 2024-06-14T11:24:40-05:00
 cssclasses:
   - page-white
 ---
@@ -34,10 +34,7 @@ cssclasses:
 > |**Age**         |             |
 > |**Occupation**  |         |
 > |**Hometown**||
-> 
-> ##### Relations
-> |                |                           |
-> | -------------- | ------------------------- |
+> |**Relations**|  |
 > 
 > ##### Stats
 > |      |      |

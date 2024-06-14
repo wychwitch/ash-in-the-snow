@@ -9,7 +9,7 @@ INT: 0
 WIS: 0
 CHA: 0
 created: 2024-01-01T00:00
-modified: 2024-06-12T11:57:39-05:00
+modified: 2024-06-14T11:24:44-05:00
 ash-class: "[[Cleric]]"
 race: Human
 pronouns: He/Him
@@ -20,23 +20,20 @@ age: late 20s
 > ###### Bio
 > |                |                  |
 > | -------------- | ---------------- |
-> |**Aliases**     | -                |
+> |**Aliases**     |                 |
 > |**Pronouns**    | He/Him           |
 > |**Race**        | Human            |
 > |**Age**         | late 20s            |
-> |**Occupation** |         |
+> |**Occupation**  |         |
 > |**Hometown**||
-> 
-> ##### Relations
-> |                |                           |
-> | -------------- | ------------------------- |
+> |**Relations**|  |
 > 
 > ##### Stats
-> | Name | Stat   | Condition      |
-> | ---- | -------- | --------- |
-> | **STR**  | 0 |   |
-> | **DEX**  | 0 |     |
-> | **INT**  | 0 |     |
-> | **WIS**  | 0 |     |
-> | **CHA**  | 0  |     |
+> |      |      |
+> | ---- | ---- |
+> | **STR**  | 0     |
+> | **DEX**  | 0     |
+> | **INT**  | 0     |
+> | **WIS**  | 0     |
+> | **CHA**  | 0     |
 
