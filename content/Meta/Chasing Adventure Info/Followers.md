@@ -1,5 +1,7 @@
 ---
 publish-ash: true
+created: 2024-01-01T00:00
+modified: 2024-06-13T19:52:47-05:00
 ---
 ## Followers  
 ## Creating a Follower  
@@ -8,7 +10,7 @@ players to detail it. Then choose one or two Qualities that they have,
 and the GM will tell you an equal number of Costs.  
 Some Followers gained through certain Advanced Moves or other  
 unusual circumstances may have special or unique Qualities - these do  
-not increase the Costs.  
+not increase the Costs.   
 The GM will then create the Follower like any other NPC, following  
 the NPCs section of the Game Master chapter on Page 95, and giving  
 them a Want, Methods, Conditions, and Armor.  
@@ -45,3 +47,5 @@ inopportune moments.
 - **Stubborn**: Tough, hard-working, and willing to put up with discomfort.  
 - **Self-Sufficient**: Can easily navigate and live off the land.  
 - **Faithful**: Dedicated to a religion, belief, or cause.  
+
+

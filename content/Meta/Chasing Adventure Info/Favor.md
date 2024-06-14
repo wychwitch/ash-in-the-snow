@@ -1,5 +1,7 @@
 ---
 publish-ash: true
+created: 2024-01-01T00:00
+modified: 2024-06-13T19:52:00-05:00
 ---
 ### What is Favor?
 Favor represents feelings of gratitude, honor, responsibility, or debt
@@ -24,4 +26,4 @@ do so. Just like with gaining favor, what this entails is also up to the
 character who is Favoring you.
 - Favoring Others: You decide how you treat those you Favor, how you
 express it and what it means. Every character will have limits on how
-far they will go for someone they Favor.
+far they will go for someone they Favor. 
