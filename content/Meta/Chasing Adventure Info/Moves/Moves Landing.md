@@ -1,21 +1,23 @@
 ---
 publish-ash: true
+created: 2024-01-01T00:00:00
+modified: 2024-06-13T19:55:18-05:00
 ---
 Moves are where nearly all the mechanics in Chasing Adventure live in. Here are the basic ones.
 
 You can find the moves for each playbook here:
 
-- [[Ash In the Snow/Meta/Moves/Barbarian|Barbarian]]
-- [[Ash In the Snow/Meta/Moves/Bard|Bard]]
-- [[Ash In the Snow/Meta/Moves/Cleric|Cleric]]
+- [[./Barbarian|Barbarian]]
+- [[./Bard|Bard]]
+- [[./Cleric|Cleric]]
 	- [[./Cleric Spells|Cleric Spells]]
-- [[Ash In the Snow/Meta/Moves/Druid|Druid]]
-- [[Ash In the Snow/Meta/Moves/Fighter|Fighter]]
+- [[./Druid|Druid]]
+- [[./Fighter|Fighter]]
 - [[./Immolator|Immolator]]
-- [[Ash In the Snow/Meta/Moves/Paladin|Paladin]]
-- [[Ash In the Snow/Meta/Moves/Ranger|Ranger]]
+- [[./Paladin|Paladin]]
+- [[./Ranger|Ranger]]
 - [[./Thief|Thief]]
-- [[Ash In the Snow/Meta/Moves/Wizard|Wizard]]
+- [[./Wizard|Wizard]]
 	- [[./Wizard Spells|Wizard Spells]]
 ## Adventure Moves
 ### Defy
