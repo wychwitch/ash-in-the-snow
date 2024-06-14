@@ -15,11 +15,11 @@ ash-class: "[[Wizard|Wizard]] - Seer"
 ash-aliases: 
 race: Human/Dragon(?)
 occupation: Prince(??)
-hometown: "[[Ber-Vusamyr|Ber-Vusamyr]] in Hisa"
+hometown: "[Ber-Vusamyr](Ber-Vusamyr) in Hisa"
 age: 
 relations: "[Axiom](Axiom), [Moonie](Moonie), & [Noachi](Noachi)"
 created: 2024-01-01T00:00
-modified: 2024-06-14T12:35:35-05:00
+modified: 2024-06-14T12:38:06-05:00
 drive: Risk yourself or another for wealth.
 ---
 
@@ -32,7 +32,7 @@ drive: Risk yourself or another for wealth.
 > |**Race**        | Human/Dragon(?)            |
 > |**Age**         |             |
 > |**Occupation**  | Prince(??)        |
-> |**Hometown**|[[Ber-Vusamyr|Ber-Vusamyr]] in Hisa|
+> |**Hometown**|[Ber-Vusamyr](Ber-Vusamyr) in Hisa|
 > |**Relations**| [Axiom](Axiom), [Moonie](Moonie), & [Noachi](Noachi) |
 > 
 > ##### Stats
@@ -65,7 +65,7 @@ On a 7-9 the spell is still successful but choose one consequence from the list 
 • Using it puts you in danger or draws unwanted attention, the GM will say how.
 #### PRESTIDIGITATION
 You can easily invoke minor magical effects without issue. Slowly moving small objects, creating minor obvious illusions, generating mild heat and sources of light, and other similar feats are all easily within your power without rolling.
-#### THE SMOULDER (thief)
+#### THE SMOULDER
 You always look good. Even if you’re wet, dirty, beat-up, or otherwise disheveled, you still look
 great. When you use your impeccable good-looks and considerable charms to Compel someone, treat them as if they Favor you, but gain 1 Heat as you are burned into their memory.
 ### Spells
