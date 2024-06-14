@@ -1,6 +1,7 @@
 ---
 publish-ash: true
-modified: 2024-06-13T20:34:14-04:00
+modified: 2024-06-13T19:50:53-05:00
+created: 2024-01-01T00:00
 ---
 A mysterious magical artifact from the [[Forgotten Era|Forgotten Era]]. People have no idea how it works, or who was behind their invention, but life as most know it in Havenloft couldn't exist without it. There may have been upwards of hundreds of thousands of these at one point, but now, after time and loss, they number only in the thousands. 
 
