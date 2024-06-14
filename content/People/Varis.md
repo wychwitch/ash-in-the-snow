@@ -9,7 +9,7 @@ INT: 0
 WIS: 0
 CHA: 0
 created: 2024-01-01T00:00
-modified: 2024-06-13T19:45:33-05:00
+modified: 2024-06-14T11:23:59-05:00
 pronouns: He/Him
 ash-class: "[[Bard]]"
 race: Elf/Tiefling
@@ -29,10 +29,7 @@ occupation: Diplomatic Attaché of the City of Hillcrest
 > |**Age**         | 36            |
 > |**Occupation**  | Diplomatic Attaché of the City of Hillcrest        |
 > |**Hometown**||
-> 
-> ##### Relations
-> |                |                           |
-> | -------------- | ------------------------- |
+> |**Relations**|  |
 > 
 > ##### Stats
 > |      |      |
@@ -42,4 +39,3 @@ occupation: Diplomatic Attaché of the City of Hillcrest
 > | **INT**  | 0     |
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
-
