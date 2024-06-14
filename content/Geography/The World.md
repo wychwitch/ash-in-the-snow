@@ -1,6 +1,7 @@
 ---
 publish-ash: true
-modified: 2024-06-13T20:34:10-04:00
+modified: 2024-06-13T20:09:26-05:00
+created: 2024-01-01T00:00:00
 ---
 The world has one sun and one moon, known as Vala, though the moon circles the earth much slower, lasting about four "months" of our time, or one entire season. 
 
@@ -9,8 +10,9 @@ The world has one sun and one moon, known as Vala, though the moon circles the e
 - **Wynterherald** = fall 
 - **Wynterwail** = winter 
 
-These seasons are further broken up by the phases of the moon, the Waxing Phase, The Full Moon, and the Waning Phase. The full moon lasts one week, and as a result has become deeply important to many rituals and become the source of many superstitions. 
+These seasons are further broken up by the phases of the moon, the Waxing phase, The Full Moon phase, and the Waning phase. The full moon (and new moon for that matter) lasts one week, and as a result has become deeply important to many rituals and become the source of many superstitions. 
 
+The first day of the season is also the first new moon.
 ## Climate
 The world is amidst an ice age, one that is only getting worse with time.  perpetually covered in snow and ice, just like most of the world has been for over a thousand years. Only countries around the equator is any reprieve from the cold, as small as it is.
 
