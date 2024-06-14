@@ -10,7 +10,7 @@ WIS: 0
 CHA: 0
 race: Dragonborn
 ash-class: "[[Paladin]]"
-modified: 2024-06-12T11:50:06-05:00
+modified: 2024-06-14T11:24:25-05:00
 ---
 
 > [!infobox]
@@ -23,10 +23,7 @@ modified: 2024-06-12T11:50:06-05:00
 > |**Age**         |             |
 > |**Occupation**  |         |
 > |**Hometown**||
-> 
-> ##### Relations
-> |                |                           |
-> | -------------- | ------------------------- |
+> |**Relations**|  |
 > 
 > ##### Stats
 > |      |      |
