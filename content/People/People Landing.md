@@ -1,10 +1,11 @@
 ---
 publish-ash: true
-modified: 2024-06-12T11:57:55-05:00
+modified: 2024-06-13T19:56:22-05:00
+created: 2024-01-01T00:00:00
 ---
 ## Player Characters
 - [[./Axiom|Axiom]] [  [[../Meta/Chasing Adventure Info/Moves/Wizard|Wizard]] ]: 
-    - A brilliant scholar from [[Bur-Vusamyr|Bur-Vusamyr]]. Travelling with [[Ash In the Snow/People/Axiom|Axiom]] and [[Ash In the Snow/People/Zilver|Zilver]], with Zilver as their ward.
+    - A brilliant scholar from [[Bur-Vusamyr|Bur-Vusamyr]]. Travelling with [Axiom]] and [[Zilver|Zilver]], with Zilver as their ward.
 
 - [[./Corrick|Corrick]] [ He/Him [[../Meta/Chasing Adventure Info/Moves/Fighter|Fighter]] ]: 
     - \-
@@ -21,10 +22,10 @@ modified: 2024-06-12T11:57:55-05:00
 - [[./Moonie|Moonie]] [  [[../Meta/Chasing Adventure Info/Moves/Paladin|Paladin]] ]: 
     - \-
 
-- [[./Varis|Varis]] [ He/Him [[Ash In the Snow/Meta/Moves/Bard|Bard]] ]: 
+- [[./Varis|Varis]] [ He/Him [[../Meta/Chasing Adventure Info/Moves/Bard|Bard]] ]: 
     - \-
 
-- [[./Zilver|Zilver]] [ He/They [[Ash In the Snow/Meta/Moves/Wizard|Wizard]] ]: 
+- [[./Zilver|Zilver]] [ He/They [[../Meta/Chasing Adventure Info/Moves/Wizard|Wizard]] ]: 
     - A supposed prince from [[Bur-Vusamyr|Bur-Vusamyr]]. [[Ash In the Snow/People/Axiom|Axiom]] and [[Ash In the Snow/People/Moonie|Moonie]] are their companions.
 
 
