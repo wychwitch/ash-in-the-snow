@@ -1,5 +1,7 @@
 ---
 publish-ash: true
+modified: 2024-06-13T19:51:09-05:00
+created: 2024-01-01T00:00
 ---
 There are countless mysteries in this world, and this page only contains a small portion of them. Feel free to suggest mysteries to add to this table.
 
