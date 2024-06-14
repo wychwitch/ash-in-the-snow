@@ -19,7 +19,7 @@ hometown:
 age: " 20smth 30smth"
 relations: 
 created: 2024-05-24T21:47:00
-modified: 2024-06-12T11:57:26-05:00
+modified: 2024-06-14T11:24:33-05:00
 ---
 
 > [!infobox]
@@ -32,10 +32,7 @@ modified: 2024-06-12T11:57:26-05:00
 > |**Age**         |  20smth 30smth            |
 > |**Occupation**  | Seems to currently be a hired hand around Brookhaven.        |
 > |**Hometown**||
-> 
-> ##### Relations
-> |                |                           |
-> | -------------- | ------------------------- |
+> |**Relations**|  |
 > 
 > ##### Stats
 > |      |      |
