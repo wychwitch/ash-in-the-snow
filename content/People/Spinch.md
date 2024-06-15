@@ -1,11 +1,10 @@
 ---
 created: 2024-06-14 12:15
-modified: 2024-06-15T00:32:12-04:00
+modified: 2024-06-15T01:29:08-04:00
 tags:
   - person/npc
   - person/follower
-ash-aliases:
-  - Spinch
+ash-aliases: Spinch
 pronouns: horse
 race: horse
 ash-class: horse
@@ -16,7 +15,7 @@ relations: "[Moonie](Moonie)"
 publish-ash: true
 ---
 > [!infobox]
-> ###### Bio
+> ##### Bio
 > |                |                  |
 > | -------------- | ---------------- |
 > |**Aliases**     | Spinch                |
