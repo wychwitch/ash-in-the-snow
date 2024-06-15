@@ -10,9 +10,13 @@ WIS: 0
 CHA: 0
 ash-class: "[[Wizard]]"
 short-desc: A brilliant scholar from [[Bur-Vusamyr|Bur-Vusamyr]]. Travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
+ash-aliases: 
 pronouns: 
 race: Dragonborn
-modified: 2024-06-14T11:24:52-05:00
+age: 
+occupation: 
+modified: 2024-06-15T00:09:22-04:00
+relations: "[[Moonie|Moonie]], [[Zilver|Zilver]]"
 created: 2024-01-01T00:00
 ---
 
@@ -26,7 +30,7 @@ created: 2024-01-01T00:00
 > |**Age**         |             |
 > |**Occupation**  |         |
 > |**Hometown**||
-> |**Relations**|  |
+> |**Relations**| [[Moonie|Moonie]], [[Zilver|Zilver]] |
 > 
 > ##### Stats
 > |      |      |

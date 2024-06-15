@@ -10,16 +10,16 @@ INT: 0
 WIS: 0
 CHA: 0
 pronouns: She/Her
-short-desc: A sweet little old rabbitfolk druid
+short-desc: A sweet little old rabbitfolk druid looking for something to keep her busy.
 ash-class: "[[Druid]]"
-ash-aliases: 
+ash-aliases: Elowyn Meidoorn
 race: Rabbitfolk
-occupation: 
-hometown: 
-age: 
+occupation: Empty nester
+hometown: Brookhaven
+age: ~40s
 relations: 
 created: 2024-04-22T11:00:00
-modified: 2024-06-14T11:24:40-05:00
+modified: 2024-06-14T23:59:22-04:00
 cssclasses:
   - page-white
 ---
@@ -28,12 +28,12 @@ cssclasses:
 > ###### Bio
 > |                |                  |
 > | -------------- | ---------------- |
-> |**Aliases**     |                 |
+> |**Aliases**     | Elowyn Meidoorn                |
 > |**Pronouns**    | She/Her           |
 > |**Race**        | Rabbitfolk            |
-> |**Age**         |             |
-> |**Occupation**  |         |
-> |**Hometown**||
+> |**Age**         | ~40s            |
+> |**Occupation**  | Empty nester        |
+> |**Hometown**|Brookhaven|
 > |**Relations**|  |
 > 
 > ##### Stats
@@ -46,5 +46,6 @@ cssclasses:
 > | **CHA**  | 0     |
 
 
-A sweet little old rabbitfolk druid
+A sweet little old rabbitfolk druid looking for something to keep her busy.
 
+![[../elowyn.png|elowyn]]

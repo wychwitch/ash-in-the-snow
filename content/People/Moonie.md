@@ -9,13 +9,13 @@ INT: 0
 WIS: 0
 CHA: 0
 ash-class: "[[Paladin]]"
-modified: 2024-06-14T22:18:29-04:00
+modified: 2024-06-15T00:11:22-04:00
 ash-aliases: 
-pronouns: 
+pronouns: They/them
 race: Dragonborn
 occupation: 
 hometown: 
-relations: 
+relations: "[Axiom](Axiom), [Zilver](Zilver)"
 short-desc: Big tough gentle giant from [[Geography/Locations/Ber-Vusamyr|Geography/Locations/Ber-Vusamyr]]. Travelling with [[Ash In the Snow/People/Axiom|Axiom]] and [[Ash In the Snow/People/Zilver|Zilver]], with Zilver as their ward.
 ---
 
@@ -24,12 +24,12 @@ short-desc: Big tough gentle giant from [[Geography/Locations/Ber-Vusamyr|Geogra
 > |                |                  |
 > | -------------- | ---------------- |
 > |**Aliases**     |                 |
-> |**Pronouns**    |            |
+> |**Pronouns**    | They/them           |
 > |**Race**        | Dragonborn            |
 > |**Age**         |             |
 > |**Occupation**  |         |
 > |**Hometown**||
-> |**Relations**|  |
+> |**Relations**| [Axiom](Axiom), [Zilver](Zilver) |
 > 
 > ##### Stats
 > |      |      |
@@ -42,3 +42,4 @@ short-desc: Big tough gentle giant from [[Geography/Locations/Ber-Vusamyr|Geogra
 
 Big tough gentle giant from [[Geography/Locations/Ber-Vusamyr|Geography/Locations/Ber-Vusamyr]]. Travelling with [[Ash In the Snow/People/Axiom|Axiom]] and [[Ash In the Snow/People/Zilver|Zilver]], with Zilver as their ward.
 
+![[../moonie1.jpg|moonie1]]
