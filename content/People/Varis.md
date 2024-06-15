@@ -8,17 +8,18 @@ DEX: 0
 INT: 0
 WIS: 0
 CHA: 0
-created: 2024-01-01T00:00
-modified: 2024-06-14T22:16:36-04:00
 ash-aliases: Varis Selevarun
 pronouns: He/Him
-ash-class: "[[Bard]]"
 race: Half-elf, half-tiefling
-cssclasses: 
+ash-class: "[[Bard]]"
 age: "36"
-hometown: 
 occupation: Diplomatic Attaché of the City of Hillcrest
+hometown: 
+relations: 
 short-desc: Into 'gay instruments' and 'gossip if it's nice.' Matches his outfits to his hair dye and vice versa.
+created: 2024-01-01T00:00
+modified: 2024-06-15T00:33:15-04:00
+cssclasses: 
 ---
 
 > [!infobox]
@@ -28,6 +29,7 @@ short-desc: Into 'gay instruments' and 'gossip if it's nice.' Matches his outfit
 > |**Aliases**     | Varis Selevarun                |
 > |**Pronouns**    | He/Him           |
 > |**Race**        | Half-elf, half-tiefling            |
+> |**Class**         | [[../Meta/Chasing Adventure Info/Moves/Bard|Bard]]            |
 > |**Age**         | 36            |
 > |**Occupation**  | Diplomatic Attaché of the City of Hillcrest        |
 > |**Hometown**||

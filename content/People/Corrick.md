@@ -13,13 +13,13 @@ ash-aliases: Corrick Clark
 pronouns: He/Him
 race: Human
 ash-class: "[[Fighter]]"
-occupation: "'Himbo'"
 age: 20s
+occupation: "'Himbo'"
 hometown: 
 relations: 
 short-desc: Like a golden retriever. Big, sweet, helpful, and largely rectangular.
 created: 2024-01-01T00:00
-modified: 2024-06-14T22:16:11-04:00
+modified: 2024-06-15T00:29:19-04:00
 cssclasses:
   - page-white
 ---
@@ -31,6 +31,7 @@ cssclasses:
 > |**Aliases**     | Corrick Clark                |
 > |**Pronouns**    | He/Him           |
 > |**Race**        | Human            |
+> |**Class**         | [[../Meta/Chasing Adventure Info/Moves/Fighter|Fighter]]            |
 > |**Age**         | PT20S            |
 > |**Occupation**  | 'Himbo'        |
 > |**Hometown**||

@@ -1,17 +1,19 @@
 ---
 created: 2024-06-14 12:02
-modified: 2024-06-14T12:10:33-05:00
+modified: 2024-06-15T00:31:48-04:00
 tags:
   - person/follower
   - magical
   - person/npc
 publish-ash: true
-race: Bird?
-relations: "[[Zilver]]"
-occupation: Bird?
-hometown: "[[Ber-Vusamyr|Ber-Vusamyr]] in Hisa"
-age: "?"
+ash-aliases: 
 pronouns: She/Her
+race: Bird?
+ash-class: Bird?
+age: "?"
+occupation: Bird?
+hometown: "[Ber-Vusamyr](Ber-Vusamyr) in Hisa"
+relations: "[Zilver](Zilver)"
 short-desc: A Giant Peacock that can turn into a coin !!! Fancy Bitch
 ---
 > [!infobox]
@@ -21,10 +23,11 @@ short-desc: A Giant Peacock that can turn into a coin !!! Fancy Bitch
 > |**Aliases**     |                 |
 > |**Pronouns**    | She/Her           |
 > |**Race**        | Bird?            |
+> |**Class**         | Bird?            |
 > |**Age**         | ?            |
 > |**Occupation**  | Bird?        |
-> |**Hometown**|[[Ber-Vusamyr|Ber-Vusamyr]] in Hisa|
-> |**Relations**| [[./Zilver|Zilver]] |
+> |**Hometown**|[Ber-Vusamyr](Ber-Vusamyr) in Hisa|
+> |**Relations**| [Zilver](Zilver) |
 > 
 
 ## Follower Properties:
