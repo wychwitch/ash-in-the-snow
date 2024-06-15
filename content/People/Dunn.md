@@ -11,14 +11,14 @@ CHA: 0
 ash-aliases: Dunn
 pronouns: He/Him
 race: Human
-ash-class: "[[Cleric]]"
+ash-class: "[Cleric](Cleric)"
 age: late 20s
 occupation: 
 hometown: 
 relations: 
 short-desc: A gentle traveling priest. A friendly sort who likes to laugh.
 created: 2024-01-01T00:00
-modified: 2024-06-15T00:32:28-04:00
+modified: 2024-06-15T00:37:16-04:00
 ---
 
 > [!infobox]
@@ -28,7 +28,7 @@ modified: 2024-06-15T00:32:28-04:00
 > |**Aliases**     | Dunn                |
 > |**Pronouns**    | He/Him           |
 > |**Race**        | Human            |
-> |**Class**         | [[../Meta/Chasing Adventure Info/Moves/Cleric|Cleric]]            |
+> |**Class**         | [Cleric](Cleric)            |
 > |**Age**         | late 20s            |
 > |**Occupation**  |         |
 > |**Hometown**||

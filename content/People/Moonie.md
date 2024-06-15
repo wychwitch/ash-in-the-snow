@@ -11,12 +11,12 @@ CHA: 0
 ash-aliases: Moonie
 pronouns: They/Them
 race: Dragonborn
-ash-class: "[[Paladin]]"
+ash-class: "[Paladin](Paladin)"
 occupation: 
 hometown: 
 relations: "[Axiom](Axiom), [Zilver](Zilver)"
 short-desc: Big tough gentle giant. Travelling with [[Ash In the Snow/People/Axiom|Axiom]] and [[Ash In the Snow/People/Zilver|Zilver]], with Zilver as their ward.
-modified: 2024-06-15T00:32:33-04:00
+modified: 2024-06-15T00:37:36-04:00
 ---
 
 > [!infobox]
@@ -26,7 +26,7 @@ modified: 2024-06-15T00:32:33-04:00
 > |**Aliases**     | Moonie                |
 > |**Pronouns**    | They/Them           |
 > |**Race**        | Dragonborn            |
-> |**Class**         | [[../Meta/Chasing Adventure Info/Moves/Paladin|Paladin]]            |
+> |**Class**         | [Paladin](Paladin)            |
 > |**Age**         |             |
 > |**Occupation**  |         |
 > |**Hometown**||
