@@ -1,6 +1,6 @@
 ---
 publish-ash: true
-modified: 2024-06-13T20:55:47-04:00
+modified: 2024-06-14T22:08:41-04:00
 ---
 A small little village with a tiny Fallen Sun that somehow manages to keep on trucking. This town has a population of fewer than a hundred people. Despite how small it is, it is just close enough to the usual travel routes that there's a large inn. 
 
