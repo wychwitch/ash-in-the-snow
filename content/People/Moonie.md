@@ -15,8 +15,8 @@ ash-class: "[Paladin](Paladin)"
 occupation: 
 hometown: 
 relations: "[Axiom](Axiom), [Zilver](Zilver)"
-short-desc: Big tough gentle giant. Travelling with [[Ash In the Snow/People/Axiom|Axiom]] and [[Ash In the Snow/People/Zilver|Zilver]], with Zilver as their ward.
-modified: 2024-06-15T00:37:36-04:00
+short-desc: Big tough gentle giant. Travelling with [[Axiom|Axiom]] and [Zilver](Zilver), with Zilver as their ward.
+modified: 2024-06-15T00:51:36-04:00
 ---
 
 > [!infobox]
@@ -41,6 +41,6 @@ modified: 2024-06-15T00:37:36-04:00
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
 
-Big tough gentle giant. Travelling with [[Ash In the Snow/People/Axiom|Axiom]] and [[Ash In the Snow/People/Zilver|Zilver]], with Zilver as their ward.
+Big tough gentle giant. Travelling with [[Axiom|Axiom]] and [Zilver](Zilver), with Zilver as their ward.
 
 ![[../moonie1.jpg|moonie1]]
