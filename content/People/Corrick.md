@@ -9,15 +9,16 @@ DEX: 0
 INT: 0
 WIS: 0
 CHA: 0
+ash-aliases: Corrick Clark
 pronouns: He/Him
 race: Human
 ash-class: "[[Fighter]]"
-occupation: 
-age: 
+occupation: "'Himbo'"
+age: 20s
 hometown: 
 relations: 
 created: 2024-01-01T00:00
-modified: 2024-06-14T11:24:49-05:00
+modified: 2024-06-14T22:10:33-04:00
 cssclasses:
   - page-white
 ---
@@ -26,11 +27,11 @@ cssclasses:
 > ###### Bio
 > |                |                  |
 > | -------------- | ---------------- |
-> |**Aliases**     |                 |
+> |**Aliases**     | Corrick Clark                |
 > |**Pronouns**    | He/Him           |
 > |**Race**        | Human            |
-> |**Age**         |             |
-> |**Occupation**  |         |
+> |**Age**         | PT20S            |
+> |**Occupation**  | 'Himbo'        |
 > |**Hometown**||
 > |**Relations**|  |
 > 
@@ -43,6 +44,6 @@ cssclasses:
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
 
+Like a golden retriever. Big, sweet, helpful, and largely rectangular.
 
-
-
+![[../corrick.png|corrick]]
