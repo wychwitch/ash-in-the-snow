@@ -18,12 +18,12 @@ hometown:
 relations: 
 short-desc: Into 'gay instruments' and 'gossip if it's nice.' Matches his outfits to his hair dye and vice versa.
 created: 2024-01-01T00:00
-modified: 2024-06-15T00:37:57-04:00
+modified: 2024-06-15T01:29:20-04:00
 cssclasses: 
 ---
 
 > [!infobox]
-> ###### Bio
+> ##### Bio
 > |                |                  |
 > | -------------- | ---------------- |
 > |**Aliases**     | Varis Selevarun                |
