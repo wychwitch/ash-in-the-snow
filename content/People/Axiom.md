@@ -16,9 +16,9 @@ age:
 occupation: 
 hometown: 
 relations: "[Moonie](Moonie), [Zilver](Zilver)"
-short-desc: A brilliant scholar travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
+short-desc: A brilliant scholar travelling with [Moonie](Moonie) and [Zilver](Zilver), with Zilver as their ward.
 created: 2024-01-01T00:00
-modified: 2024-06-15T00:37:02-04:00
+modified: 2024-06-15T00:47:54-04:00
 ---
 
 > [!infobox]
@@ -43,6 +43,6 @@ modified: 2024-06-15T00:37:02-04:00
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
 
-A brilliant scholar travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
+A brilliant scholar travelling with [Moonie](Moonie) and [Zilver](Zilver), with Zilver as their ward.
 
 
