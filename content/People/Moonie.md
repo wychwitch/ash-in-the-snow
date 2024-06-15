@@ -8,9 +8,15 @@ DEX: 0
 INT: 0
 WIS: 0
 CHA: 0
-race: Dragonborn
 ash-class: "[[Paladin]]"
-modified: 2024-06-14T11:24:25-05:00
+modified: 2024-06-14T22:18:29-04:00
+ash-aliases: 
+pronouns: 
+race: Dragonborn
+occupation: 
+hometown: 
+relations: 
+short-desc: Big tough gentle giant from [[Geography/Locations/Ber-Vusamyr|Geography/Locations/Ber-Vusamyr]]. Travelling with [[Ash In the Snow/People/Axiom|Axiom]] and [[Ash In the Snow/People/Zilver|Zilver]], with Zilver as their ward.
 ---
 
 > [!infobox]
@@ -34,6 +40,5 @@ modified: 2024-06-14T11:24:25-05:00
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
 
-Big tough gentle giant from [[../Geography/Locations/Ber-Vusamyr|Ber-Vusamyr]]. Travelling with [[Ash In the Snow/People/Axiom|Axiom]] and [[Ash In the Snow/People/Zilver|Zilver]], with Zilver as their ward.
-
+Big tough gentle giant from [[Geography/Locations/Ber-Vusamyr|Geography/Locations/Ber-Vusamyr]]. Travelling with [[Ash In the Snow/People/Axiom|Axiom]] and [[Ash In the Snow/People/Zilver|Zilver]], with Zilver as their ward.
 
