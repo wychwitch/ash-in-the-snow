@@ -18,7 +18,7 @@ hometown:
 relations: 
 short-desc: A gentle traveling priest. A friendly sort who likes to laugh.
 created: 2024-01-01T00:00
-modified: 2024-06-15T01:27:39-04:00
+modified: 2024-06-15T01:43:38-04:00
 ---
 
 > [!infobox]
