@@ -8,29 +8,31 @@ DEX: 0.1
 INT: 0
 WIS: 0
 CHA: 0
-ash-class: "[[Wizard]]"
-short-desc: A brilliant scholar travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
-ash-aliases: 
-pronouns: 
+ash-aliases: Axiom
+pronouns: He/They
 race: Dragonborn
+ash-class: "[[Wizard]]"
 age: 
 occupation: 
-modified: 2024-06-15T00:17:06-04:00
-relations: "[[Moonie|Moonie]], [[Zilver|Zilver]]"
+hometown: 
+relations: "[Moonie](Moonie), [Zilver](Zilver)"
+short-desc: A brilliant scholar travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
 created: 2024-01-01T00:00
+modified: 2024-06-15T00:32:23-04:00
 ---
 
 > [!infobox]
 > ###### Bio
 > |                |                  |
 > | -------------- | ---------------- |
-> |**Aliases**     |                 |
-> |**Pronouns**    |            |
+> |**Aliases**     | Axiom                |
+> |**Pronouns**    | He/They           |
 > |**Race**        | Dragonborn            |
+> |**Class**         | [[../Meta/Chasing Adventure Info/Moves/Wizard|Wizard]]            |
 > |**Age**         |             |
 > |**Occupation**  |         |
 > |**Hometown**||
-> |**Relations**| [[Moonie|Moonie]], [[Zilver|Zilver]] |
+> |**Relations**| [Moonie](Moonie), [Zilver](Zilver) |
 > 
 > ##### Stats
 > |      |      |
