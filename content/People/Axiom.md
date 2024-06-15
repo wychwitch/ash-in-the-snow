@@ -11,14 +11,14 @@ CHA: 0
 ash-aliases: Axiom
 pronouns: He/They
 race: Dragonborn
-ash-class: "[[Wizard]]"
+ash-class: "[Wizard](Wizard) - Artificer"
 age: 
 occupation: 
 hometown: 
 relations: "[Moonie](Moonie), [Zilver](Zilver)"
 short-desc: A brilliant scholar travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
 created: 2024-01-01T00:00
-modified: 2024-06-15T00:32:23-04:00
+modified: 2024-06-15T00:37:02-04:00
 ---
 
 > [!infobox]
@@ -28,7 +28,7 @@ modified: 2024-06-15T00:32:23-04:00
 > |**Aliases**     | Axiom                |
 > |**Pronouns**    | He/They           |
 > |**Race**        | Dragonborn            |
-> |**Class**         | [[../Meta/Chasing Adventure Info/Moves/Wizard|Wizard]]            |
+> |**Class**         | [Wizard](Wizard) - Artificer            |
 > |**Age**         |             |
 > |**Occupation**  |         |
 > |**Hometown**||
