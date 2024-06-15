@@ -12,14 +12,14 @@ CHA: 0
 ash-aliases: Iscin Irascu
 pronouns: She/They
 race: Elf
-ash-class: "[[Immolator]]"
+ash-class: "[Immolator](Immolator)"
 age: " 20smth 30smth"
 occupation: Seems to currently be a hired hand around Brookhaven.
 hometown: 
 relations: 
 short-desc: Seemingly polite, but with a smile like she knows something you haven't figured out yet. Always happy to offer a light.
 created: 2024-05-24T21:47:00
-modified: 2024-06-15T00:30:51-04:00
+modified: 2024-06-15T00:36:53-04:00
 ---
 
 > [!infobox]
@@ -29,7 +29,7 @@ modified: 2024-06-15T00:30:51-04:00
 > |**Aliases**     | Iscin Irascu                |
 > |**Pronouns**    | She/They           |
 > |**Race**        | Elf            |
-> |**Class**         | [[../Meta/Chasing Adventure Info/Moves/Immolator|Immolator]]            |
+> |**Class**         | [Immolator](Immolator)            |
 > |**Age**         |  20smth 30smth            |
 > |**Occupation**  | Seems to currently be a hired hand around Brookhaven.        |
 > |**Hometown**||
