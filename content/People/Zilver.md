@@ -9,18 +9,18 @@ DEX: 1
 INT: 0
 WIS: 1
 CHA: 2
-pronouns: He/They
-short-desc: A supposed prince from [[Ber-Vusamyr|Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions. [[Noachi|Noachi]] is his babie
-ash-class: "[[Wizard|Wizard]] - Seer"
 ash-aliases: First Prince Zilver Of Ber-Vusamyr
+pronouns: He/They
 race: Human/Dragon(?)
+ash-class: "[Wizard](Wizard) - Seer"
+age: early 20s
 occupation: Prince(??)
 hometown: "[Ber-Vusamyr](Ber-Vusamyr) in Hisa"
-age: early 20s
 relations: "[Axiom](Axiom), [Moonie](Moonie), & [Noachi](Noachi)"
-created: 2024-01-01T00:00
-modified: 2024-06-15T00:02:36-04:00
+short-desc: A supposed prince from [[Ber-Vusamyr|Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions. [[Noachi|Noachi]] is his babie
 drive: Risk yourself or another for wealth.
+created: 2024-01-01T00:00
+modified: 2024-06-15T00:34:19-04:00
 ---
 
 > [!infobox]
@@ -30,6 +30,7 @@ drive: Risk yourself or another for wealth.
 > |**Aliases**     | First Prince Zilver Of Ber-Vusamyr                |
 > |**Pronouns**    | He/They           |
 > |**Race**        | Human/Dragon(?)            |
+> |**Class**         | [Wizard](Wizard) - Seer            |
 > |**Age**         | early 20s            |
 > |**Occupation**  | Prince(??)        |
 > |**Hometown**|[Ber-Vusamyr](Ber-Vusamyr) in Hisa|
