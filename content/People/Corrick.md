@@ -19,13 +19,13 @@ hometown:
 relations: 
 short-desc: Like a golden retriever. Big, sweet, helpful, and largely rectangular.
 created: 2024-01-01T00:00
-modified: 2024-06-15T00:37:07-04:00
+modified: 2024-06-15T01:27:36-04:00
 cssclasses:
   - page-white
 ---
 
 > [!infobox]
-> ###### Bio
+> ##### Bio
 > |                |                  |
 > | -------------- | ---------------- |
 > |**Aliases**     | Corrick Clark                |

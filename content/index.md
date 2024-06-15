@@ -5,7 +5,7 @@ publish-ash: true
 title: Home
 description: This is a world of snow and warmth. A world of disconnection and unbreakable bonds. This is the story of Ash in the Snow.
 cssclasses: 
-modified: 2024-06-14T22:23:23-04:00
+modified: 2024-06-15T09:59:20-04:00
 created: 2024-01-01T00:00
 ---
 This is a world of snow and warmth. A world of disconnection and unbreakable bonds. This is the story of Ash in the Snow.
@@ -14,18 +14,26 @@ This is a world of snow and warmth. A world of disconnection and unbreakable bon
 
 ## Important Links
 [[./People/People Landing|People Landing]]
-[[./Meta/Chasing Adventure Info/Moves/Moves Landing|Moves]]
+[[./Meta/Chasing Adventure Info/Moves/Moves Landing|Moves Landing]]
 [[./Lore/Mysteries|Mysteries]]
 
 ### PCs
 - [[./People/Axiom|Axiom]]
+- [[Axiom|Axiom]]
 - [[./People/Corrick|Corrick]]
+- [[Corrick|Corrick]]
 - [[./People/Dunn|Dunn]]
+- [[Dunn|Dunn]]
 - [[./People/Elowyn|Elowyn]]
+- [[Elowyn|Elowyn]]
 - [[./People/Iscin|Iscin]]
+- [[Iscin|Iscin]]
 - [[./People/Moonie|Moonie]]
+- [[Moonie|Moonie]]
 - [[./People/Varis|Varis]]
+- [[Varis|Varis]]
 - [[./People/Zilver|Zilver]]
+- [[Zilver|Zilver]]
 
 
 ## Geography

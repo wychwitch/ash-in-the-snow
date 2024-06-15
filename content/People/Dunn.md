@@ -18,11 +18,11 @@ hometown:
 relations: 
 short-desc: A gentle traveling priest. A friendly sort who likes to laugh.
 created: 2024-01-01T00:00
-modified: 2024-06-15T00:37:16-04:00
+modified: 2024-06-15T01:43:38-04:00
 ---
 
 > [!infobox]
-> ###### Bio
+> ##### Bio
 > |                |                  |
 > | -------------- | ---------------- |
 > |**Aliases**     | Dunn                |
@@ -45,4 +45,4 @@ modified: 2024-06-15T00:37:16-04:00
 
 A gentle traveling priest. A friendly sort who likes to laugh.
 
-![[../dunn.png|dunn]]
+![[../dunn.png|430]]

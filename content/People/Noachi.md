@@ -1,6 +1,6 @@
 ---
 created: 2024-06-14 12:02
-modified: 2024-06-15T00:31:48-04:00
+modified: 2024-06-15T01:27:48-04:00
 tags:
   - person/follower
   - magical
@@ -17,7 +17,7 @@ relations: "[Zilver](Zilver)"
 short-desc: A Giant Peacock that can turn into a coin !!! Fancy Bitch
 ---
 > [!infobox]
-> ###### Bio
+> ##### Bio
 > |                |                  |
 > | -------------- | ---------------- |
 > |**Aliases**     |                 |
