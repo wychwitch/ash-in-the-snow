@@ -19,7 +19,7 @@ hometown:
 relations: 
 short-desc: Seemingly polite, but with a smile like she knows something you haven't figured out yet. Always happy to offer a light.
 created: 2024-05-24T21:47:00
-modified: 2024-06-15T01:32:30-04:00
+modified: 2024-06-15T01:43:15-04:00
 ---
 
 > [!infobox]
