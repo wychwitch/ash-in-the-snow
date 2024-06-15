@@ -17,8 +17,9 @@ occupation: "'Himbo'"
 age: 20s
 hometown: 
 relations: 
+short-desc: Like a golden retriever. Big, sweet, helpful, and largely rectangular.
 created: 2024-01-01T00:00
-modified: 2024-06-14T22:10:33-04:00
+modified: 2024-06-14T22:16:11-04:00
 cssclasses:
   - page-white
 ---
