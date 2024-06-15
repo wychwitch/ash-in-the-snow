@@ -16,7 +16,7 @@ occupation:
 hometown: 
 relations: "[Axiom](Axiom), [Zilver](Zilver)"
 short-desc: Big tough gentle giant. Travelling with [[Axiom|Axiom]] and [Zilver](Zilver), with Zilver as their ward.
-modified: 2024-06-15T00:51:36-04:00
+modified: 2024-06-15T00:58:28-04:00
 ---
 
 > [!infobox]
@@ -43,4 +43,4 @@ modified: 2024-06-15T00:51:36-04:00
 
 Big tough gentle giant. Travelling with [[Axiom|Axiom]] and [Zilver](Zilver), with Zilver as their ward.
 
-![[../moonie1.jpg|moonie1]]
+![[../moonie3.jpg|430]]
