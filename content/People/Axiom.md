@@ -4,7 +4,7 @@ tags:
 shortRepo: ash
 publish-ash: true
 STR: 0
-DEX: 0.1
+DEX: 0
 INT: 0
 WIS: 0
 CHA: 0
@@ -16,13 +16,13 @@ age:
 occupation: 
 hometown: 
 relations: "[Moonie](Moonie), [Zilver](Zilver)"
-short-desc: A brilliant scholar travelling with [Moonie](Moonie) and [Zilver](Zilver), with Zilver as their ward.
+short-desc: A brilliant scholar travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
 created: 2024-01-01T00:00
-modified: 2024-06-15T00:47:54-04:00
+modified: 2024-06-15T01:27:33-04:00
 ---
 
 > [!infobox]
-> ###### Bio
+> ##### Bio
 > |                |                  |
 > | -------------- | ---------------- |
 > |**Aliases**     | Axiom                |
@@ -38,11 +38,11 @@ modified: 2024-06-15T00:47:54-04:00
 > |      |      |
 > | ---- | ---- |
 > | **STR**  | 0     |
-> | **DEX**  | 0 ❌   |
+> | **DEX**  | 0     |
 > | **INT**  | 0     |
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
 
-A brilliant scholar travelling with [Moonie](Moonie) and [Zilver](Zilver), with Zilver as their ward.
+A brilliant scholar travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
 
 
