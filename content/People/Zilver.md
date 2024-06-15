@@ -20,7 +20,7 @@ relations: "[Axiom](Axiom), [Moonie](Moonie), & [Noachi](Noachi)"
 short-desc: A supposed prince from [[Ber-Vusamyr|Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions. [[Noachi|Noachi]] is his babie
 drive: Risk yourself or another for wealth.
 created: 2024-01-01T00:00
-modified: 2024-06-15T01:31:26-04:00
+modified: 2024-06-15T01:42:46-04:00
 ---
 
 > [!infobox]
@@ -65,7 +65,7 @@ On a 7-9 the spell is still successful but choose one consequence from the list 
 You can easily invoke minor magical effects without issue. Slowly moving small objects, creating minor obvious illusions, generating mild heat and sources of light, and other similar feats are all easily within your power without rolling.
 #### THE SMOULDER
 You always look good. Even if you’re wet, dirty, beat-up, or otherwise disheveled, you still look
-great. When you use your impeccable good-looks and considerable charms to Compel someone, treat them as if they Favor you, but gain 1 Heat as you are burned into their memory.
+great. When you use your impeccable good-looks and considerable charms to Compel someone, treat them as if they Favor you, but gain 1 Heat as you are burned into their memory. 
 ### Spells
 
 #### Charm (Ongoing)
