@@ -15,12 +15,12 @@ ash-class: "[Paladin](Paladin)"
 occupation: 
 hometown: 
 relations: "[Axiom](Axiom), [Zilver](Zilver)"
-short-desc: Big tough gentle giant. Travelling with [[Axiom|Axiom]] and [Zilver](Zilver), with Zilver as their ward.
-modified: 2024-06-15T00:58:28-04:00
+short-desc: Big tough gentle giant. Travelling with [[Axiom|Axiom]] and [[Zilver|Zilver]], with Zilver as their ward.
+modified: 2024-06-15T01:27:46-04:00
 ---
 
 > [!infobox]
-> ###### Bio
+> ##### Bio
 > |                |                  |
 > | -------------- | ---------------- |
 > |**Aliases**     | Moonie                |
@@ -41,6 +41,6 @@ modified: 2024-06-15T00:58:28-04:00
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
 
-Big tough gentle giant. Travelling with [[Axiom|Axiom]] and [Zilver](Zilver), with Zilver as their ward.
+Big tough gentle giant. Travelling with [[Axiom|Axiom]] and [[Zilver|Zilver]], with Zilver as their ward.
 
 ![[../moonie3.jpg|430]]
