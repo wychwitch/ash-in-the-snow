@@ -19,13 +19,13 @@ hometown: Brookhaven
 relations: 
 short-desc: A sweet little old rabbitfolk druid looking for something to keep her busy.
 created: 2024-04-22T11:00:00
-modified: 2024-06-15T00:37:32-04:00
+modified: 2024-06-15T01:27:42-04:00
 cssclasses:
   - page-white
 ---
 
 > [!infobox]
-> ###### Bio
+> ##### Bio
 > |                |                  |
 > | -------------- | ---------------- |
 > |**Aliases**     | Elowyn Meidoorn                |
@@ -49,4 +49,4 @@ cssclasses:
 
 A sweet little old rabbitfolk druid looking for something to keep her busy.
 
-![[../elowyn.png|elowyn]]
+![[../elowyn.png|430]]
