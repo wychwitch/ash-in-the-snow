@@ -67,3 +67,4 @@ You can move and manipulate fire in a variety of ways - dimming, flaring, sparki
 **If they’re an NPC,** they can’t act out against you while Charmed. **If they’re a PC,** you also can spend 1 Charm to inspire or distract them, granting them Advantage or Disadvantage on their next roll.%%
 
 ![[../iscin.png|430]]
+
