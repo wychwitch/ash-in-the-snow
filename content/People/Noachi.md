@@ -1,6 +1,6 @@
 ---
 created: 2024-06-14 12:02
-modified: 2024-06-16T16:40:25-05:00
+modified: 2024-06-16T17:15:48-05:00
 tags:
   - person/follower
   - magical
@@ -29,7 +29,6 @@ enemies-with: []
 > |**Age**         | ?            |
 > |**Occupation**  | Bird?        |
 > |**Hometown**|[Ber-Vusamyr](Ber-Vusamyr) in Hisa|
-> |**Relations**|  |
 >
 >
 >
