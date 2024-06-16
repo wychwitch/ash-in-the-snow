@@ -1,6 +1,6 @@
 ---
 publish-ash: true
-modified: 2024-06-15T21:48:28-05:00
+modified: 2024-06-16T16:23:52-05:00
 created: 2024-01-01T00:00:00
 ---
 ## Player Characters
@@ -32,6 +32,9 @@ created: 2024-01-01T00:00:00
 
 	
 ## NPCs
+- [[NPC Template|NPC Template]]: 
+    - \-
+
 - [[./Noachi|Noachi]] [ She/Her Bird? ]: 
     - A Giant Peacock that can turn into a coin !!! Fancy Bitch
 
