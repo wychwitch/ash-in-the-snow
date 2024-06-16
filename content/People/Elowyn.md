@@ -18,12 +18,14 @@ occupation: Empty nester
 hometown: Brookhaven
 short-desc: A sweet little old rabbitfolk druid looking for something to keep her busy.
 created: 2024-04-22T11:00:00
-modified: 2024-06-16T16:39:44-05:00
+modified: 2024-06-16T17:01:38-05:00
 friendly-with: 
 enemies-with: 
+img: "[[../elowyn.png|elowyn.png]]"
 ---
 
 > [!infobox]
+> ![[../elowyn.png|elowyn.png]]
 > ##### Bio
 > |                |                  |
 > | -------------- | ---------------- |
@@ -45,12 +47,11 @@ enemies-with:
 > | **CHA**  | 0     |
 >
 >
+>\-
 >
 >
->
->
+>\-
 
 
 A sweet little old rabbitfolk druid looking for something to keep her busy.
 
-![[../elowyn.png|430]]

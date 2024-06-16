@@ -18,12 +18,14 @@ hometown:
 relations: 
 short-desc: A gentle traveling priest. A friendly sort who likes to laugh.
 created: 2024-01-01T00:00
-modified: 2024-06-16T16:39:41-05:00
-friendly-with: []
+modified: 2024-06-16T17:01:26-05:00
+friendly-with: 
 enemies-with: 
+img: "[[../dunn.png|dunn.png]]"
 ---
 
 > [!infobox]
+> ![[../dunn.png|dunn.png]]
 > ##### Bio
 > |                |                  |
 > | -------------- | ---------------- |
@@ -45,11 +47,10 @@ enemies-with:
 > | **CHA**  | 0     |
 >
 >
+>\-
 >
 >
->
->
+>\-
 
 A gentle traveling priest. A friendly sort who likes to laugh.
 
-![[../dunn.png|430]]

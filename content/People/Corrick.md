@@ -18,14 +18,16 @@ occupation: "'Himbo'"
 hometown: 
 short-desc: Like a golden retriever. Big, sweet, helpful, and largely rectangular.
 created: 2024-01-01T00:00
-modified: 2024-06-16T16:39:39-05:00
+modified: 2024-06-16T17:00:52-05:00
 cssclasses:
   - page-white
 friendly-with: 
 enemies-with: 
+img: "[[../corrick.png|corrick.png]]"
 ---
 
 > [!infobox]
+> ![[../corrick.png|corrick.png]]
 > ##### Bio
 > |                |                  |
 > | -------------- | ---------------- |
@@ -47,11 +49,10 @@ enemies-with:
 > | **CHA**  | 0     |
 >
 >
+>\-
 >
 >
->
->
+>\-
 
 Like a golden retriever. Big, sweet, helpful, and largely rectangular.
 
-![[../corrick.png|corrick]]
