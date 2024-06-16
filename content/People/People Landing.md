@@ -1,36 +1,42 @@
 ---
 publish-ash: true
-modified: 2024-06-13T19:56:22-05:00
+modified: 2024-06-15T21:48:28-05:00
 created: 2024-01-01T00:00:00
 ---
 ## Player Characters
-- [[./Axiom|Axiom]] [  [[../Meta/Chasing Adventure Info/Moves/Wizard|Wizard]] ]: 
-    - A brilliant scholar from [[Bur-Vusamyr|Bur-Vusamyr]]. Travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
+- [[./Axiom|Axiom]] [ He/They [Wizard](Wizard) - Artificer ]: 
+    - A brilliant scholar travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
 
-- [[./Corrick|Corrick]] [ He/Him [[../Meta/Chasing Adventure Info/Moves/Fighter|Fighter]] ]: 
-    - \-
+- [[./Corrick|Corrick]] [ He/Him [Fighter](Fighter) ]: 
+    - Like a golden retriever. Big, sweet, helpful, and largely rectangular.
 
-- [[./Dunn|Dunn]] [ He/Him [[../Meta/Chasing Adventure Info/Moves/Cleric|Cleric]] ]: 
-    - \-
+- [[./Dunn|Dunn]] [ He/Him [Cleric](Cleric) ]: 
+    - A gentle traveling priest. A friendly sort who likes to laugh.
 
-- [[./Elowyn|Elowyn]] [ She/Her [[../Meta/Chasing Adventure Info/Moves/Druid|Druid]] ]: 
-    - A sweet little old rabbitfolk druid
+- [[./Elowyn|Elowyn]] [ She/Her [Druid](Druid) ]: 
+    - A sweet little old rabbitfolk druid looking for something to keep her busy.
 
-- [[./Iscin|Iscin]] [ She/They [[../Meta/Chasing Adventure Info/Moves/Immolator|Immolator]] ]: 
-    - A tall, lone wolf of an Elf and a wry smile.
+- [[./Iscin|Iscin]] [ She/They [Immolator](Immolator) ]: 
+    - Seemingly polite, but with a smile like she knows something you haven't figured out yet. Always happy to offer a light.
 
-- [[./Moonie|Moonie]] [  [[../Meta/Chasing Adventure Info/Moves/Paladin|Paladin]] ]: 
-    - \-
+- [[./Moonie|Moonie]] [ They/Them [Paladin](Paladin) ]: 
+    - Big tough gentle giant. Travelling with [[Axiom|Axiom]] and [[Zilver|Zilver]], with Zilver as their ward.
 
-- [[./Varis|Varis]] [ He/Him [[../Meta/Chasing Adventure Info/Moves/Bard|Bard]] ]: 
-    - \-
+- [[./Varis|Varis]] [ He/Him [Bard](Bard) ]: 
+    - Into 'gay instruments' and 'gossip if it's nice.' Matches his outfits to his hair dye and vice versa.
 
-- [[./Zilver|Zilver]] [ He/They [[../Meta/Chasing Adventure Info/Moves/Wizard|Wizard]] ]: 
-    - A supposed prince from [[Bur-Vusamyr|Bur-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions.
+- [[./Zilver|Zilver]] [ He/They [Wizard](Wizard) - Seer ]: 
+    - A supposed prince from [[Ber-Vusamyr|Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions. [[Noachi|Noachi]] is his babie
 
 
 
 	
 ## NPCs
+- [[./Noachi|Noachi]] [ She/Her Bird? ]: 
+    - A Giant Peacock that can turn into a coin !!! Fancy Bitch
+
+- [[./Spinch|Spinch]] [ horse horse ]: 
+    - \-
+
 
 

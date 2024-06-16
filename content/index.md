@@ -20,19 +20,12 @@ This is a world of snow and warmth. A world of disconnection and unbreakable bon
 ### PCs
 - [[./People/Axiom|Axiom]]
 - [[./People/Corrick|Corrick]]
-- [[github-publisher/content/People/Corrick.md|Corrick]]
 - [[./People/Dunn|Dunn]]
-- [[github-publisher/content/People/Dunn.md|Dunn]]
-- [[github-publisher/content/People/Elowyn.md|Elowyn]]
 - [[./People/Elowyn|Elowyn]]
-- [[github-publisher/content/People/Iscin.md|Iscin]]
 - [[./People/Iscin|Iscin]]
 - [[./People/Moonie|Moonie]]
-- [[github-publisher/content/People/Moonie.md|Moonie]]
 - [[./People/Varis|Varis]]
-- [[github-publisher/content/People/Varis.md|Varis]]
 - [[./People/Zilver|Zilver]]
-- [[github-publisher/content/People/Zilver.md|Zilver]]
 
 
 ## Geography
