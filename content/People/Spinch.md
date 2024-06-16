@@ -1,6 +1,6 @@
 ---
 created: 2024-06-14 12:15
-modified: 2024-06-15T01:29:08-04:00
+modified: 2024-06-16T16:40:14-05:00
 tags:
   - person/npc
   - person/follower
@@ -11,8 +11,10 @@ ash-class: horse
 age: horse
 occupation: horse
 hometown: horse
-relations: "[Moonie](Moonie)"
 publish-ash: true
+friendly-with:
+  - "[Moonie](Moonie)"
+enemies-with: 
 ---
 > [!infobox]
 > ##### Bio
@@ -25,7 +27,12 @@ publish-ash: true
 > |**Age**         | horse            |
 > |**Occupation**  | horse        |
 > |**Hometown**|horse|
-> |**Relations**| [Moonie](Moonie) |
+> |**Relations**|  |
+>##### Friendly With
+>[Moonie](Moonie)
+>
+>
+>
 
 ## Follower Properties:
 

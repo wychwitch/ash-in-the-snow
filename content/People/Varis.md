@@ -15,11 +15,12 @@ ash-class: "[Bard](Bard)"
 age: "36"
 occupation: Diplomatic Attaché of the City of Hillcrest
 hometown: 
-relations: 
 short-desc: Into 'gay instruments' and 'gossip if it's nice.' Matches his outfits to his hair dye and vice versa.
 created: 2024-01-01T00:00
-modified: 2024-06-15T01:29:20-04:00
+modified: 2024-06-16T16:39:53-05:00
 cssclasses: 
+friendly-with: 
+enemies-with: []
 ---
 
 > [!infobox]
@@ -32,8 +33,7 @@ cssclasses:
 > |**Class**         | [Bard](Bard)            |
 > |**Age**         | 36            |
 > |**Occupation**  | Diplomatic Attaché of the City of Hillcrest        |
-> |**Hometown**||
-> |**Relations**|  |
+> |**Hometown**|\-|
 > 
 > ##### Stats
 > |      |      |
@@ -43,6 +43,12 @@ cssclasses:
 > | **INT**  | 0     |
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
+>
+>
+>
+>
+>
+>
 
  Into 'gay instruments' and 'gossip if it's nice.' Matches his outfits to his hair dye and vice versa.
 

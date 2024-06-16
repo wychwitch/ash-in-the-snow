@@ -18,7 +18,9 @@ hometown:
 relations: 
 short-desc: A gentle traveling priest. A friendly sort who likes to laugh.
 created: 2024-01-01T00:00
-modified: 2024-06-15T01:43:38-04:00
+modified: 2024-06-16T16:39:41-05:00
+friendly-with: []
+enemies-with: 
 ---
 
 > [!infobox]
@@ -30,9 +32,8 @@ modified: 2024-06-15T01:43:38-04:00
 > |**Race**        | Human            |
 > |**Class**         | [Cleric](Cleric)            |
 > |**Age**         | late 20s            |
-> |**Occupation**  |         |
-> |**Hometown**||
-> |**Relations**|  |
+> |**Occupation**  | \-        |
+> |**Hometown**|\-|
 > 
 > ##### Stats
 > |      |      |
@@ -42,6 +43,12 @@ modified: 2024-06-15T01:43:38-04:00
 > | **INT**  | 0     |
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
+>
+>
+>
+>
+>
+>
 
 A gentle traveling priest. A friendly sort who likes to laugh.
 
