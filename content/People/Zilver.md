@@ -16,15 +16,15 @@ ash-class: "[Wizard](Wizard) - Seer"
 age: early 20s
 occupation: Prince(??)
 hometown: "[Ber-Vusamyr](Ber-Vusamyr) in Hisa"
-relations:
+friendly-with:
   - "[Axiom](Axiom)"
   - "[Moonie](Moonie)"
   - "[Noachi](Noachi)"
-enemies: 
+enemies-with: 
 short-desc: A supposed prince from [[Ber-Vusamyr|Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions. [[Noachi|Noachi]] is his babie
 drive: Risk yourself or another for wealth.
 created: 2024-01-01T00:00
-modified: 2024-06-16T15:54:15-05:00
+modified: 2024-06-16T16:39:55-05:00
 ---
 
 > [!infobox]
@@ -38,7 +38,6 @@ modified: 2024-06-16T15:54:15-05:00
 > |**Age**         | early 20s            |
 > |**Occupation**  | Prince(??)        |
 > |**Hometown**|[Ber-Vusamyr](Ber-Vusamyr) in Hisa|
-> |**Relations**| [Axiom](Axiom),[Moonie](Moonie),[Noachi](Noachi) |
 > 
 > ##### Stats
 > |      |      |
@@ -48,17 +47,12 @@ modified: 2024-06-16T15:54:15-05:00
 > | **INT**  | 0     |
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18869:21)
-    at evalInContext (plugin:dataview:18870:7)
-    at asyncEvalInContext (plugin:dataview:18880:32)
-    at DataviewJSRenderer.render (plugin:dataview:18906:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18448:14)
-    at e.load (app://obsidian.md/app.js:1:1165962)
-    at DataviewApi.executeJs (plugin:dataview:19449:18)
-    at DataviewCompiler.dataviewJS (plugin:obsidian-mkdocs-publisher:32:51054)
-    at convertDataviewQueries (plugin:obsidian-mkdocs-publisher:35:1360)
-    at mainConverting (plugin:obsidian-mkdocs-publisher:44:1697)</pre>
+>
+>##### Friendly With
+>[Axiom](Axiom),[Moonie](Moonie),[Noachi](Noachi)
+>
+>
+>
 
 
 
