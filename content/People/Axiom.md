@@ -15,10 +15,11 @@ ash-class: "[Wizard](Wizard) - Artificer"
 age: 
 occupation: 
 hometown: 
-relations: "[Moonie](Moonie), [Zilver](Zilver)"
 short-desc: A brilliant scholar travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
 created: 2024-01-01T00:00
-modified: 2024-06-15T01:27:33-04:00
+modified: 2024-06-16T16:39:33-05:00
+friendly-with: 
+enemies-with: 
 ---
 
 > [!infobox]
@@ -29,10 +30,9 @@ modified: 2024-06-15T01:27:33-04:00
 > |**Pronouns**    | He/They           |
 > |**Race**        | Dragonborn            |
 > |**Class**         | [Wizard](Wizard) - Artificer            |
-> |**Age**         |             |
-> |**Occupation**  |         |
-> |**Hometown**||
-> |**Relations**| [Moonie](Moonie), [Zilver](Zilver) |
+> |**Age**         | \-            |
+> |**Occupation**  | \-        |
+> |**Hometown**|\-|
 > 
 > ##### Stats
 > |      |      |
@@ -42,6 +42,12 @@ modified: 2024-06-15T01:27:33-04:00
 > | **INT**  | 0     |
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
+>
+>
+>
+>
+>
+>
 
 A brilliant scholar travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
 
