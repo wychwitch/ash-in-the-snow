@@ -17,7 +17,7 @@ occupation: Diplomatic Attaché of the City of Hillcrest
 hometown: 
 short-desc: Into 'gay instruments' and 'gossip if it's nice.' Matches his outfits to his hair dye and vice versa.
 created: 2024-01-01T00:00
-modified: 2024-06-16T17:04:47-05:00
+modified: 2024-06-16T17:22:44-05:00
 cssclasses: 
 friendly-with: 
 enemies-with: 
@@ -35,7 +35,7 @@ img: "[[../varis.png|varis.png]]"
 > |**Class**         | [Bard](Bard)            |
 > |**Age**         | 36            |
 > |**Occupation**  | Diplomatic Attaché of the City of Hillcrest        |
-> |**Hometown**|\-|
+> |**Hometown**||
 > 
 > ##### Stats
 > |      |      |
@@ -47,10 +47,10 @@ img: "[[../varis.png|varis.png]]"
 > | **CHA**  | 0     |
 >
 >
->\-
 >
 >
->\-
+>
+>
 
  Into 'gay instruments' and 'gossip if it's nice.' Matches his outfits to his hair dye and vice versa.
 
