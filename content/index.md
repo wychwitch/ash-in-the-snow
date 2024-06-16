@@ -5,7 +5,7 @@ publish-ash: true
 title: Home
 description: This is a world of snow and warmth. A world of disconnection and unbreakable bonds. This is the story of Ash in the Snow.
 cssclasses: 
-modified: 2024-06-15T09:59:20-04:00
+modified: 2024-06-15T21:25:04-04:00
 created: 2024-01-01T00:00
 ---
 This is a world of snow and warmth. A world of disconnection and unbreakable bonds. This is the story of Ash in the Snow.
@@ -19,21 +19,20 @@ This is a world of snow and warmth. A world of disconnection and unbreakable bon
 
 ### PCs
 - [[./People/Axiom|Axiom]]
-- [[Axiom|Axiom]]
 - [[./People/Corrick|Corrick]]
-- [[Corrick|Corrick]]
+- [[github-publisher/content/People/Corrick.md|Corrick]]
 - [[./People/Dunn|Dunn]]
-- [[Dunn|Dunn]]
+- [[github-publisher/content/People/Dunn.md|Dunn]]
+- [[github-publisher/content/People/Elowyn.md|Elowyn]]
 - [[./People/Elowyn|Elowyn]]
-- [[Elowyn|Elowyn]]
+- [[github-publisher/content/People/Iscin.md|Iscin]]
 - [[./People/Iscin|Iscin]]
-- [[Iscin|Iscin]]
 - [[./People/Moonie|Moonie]]
-- [[Moonie|Moonie]]
+- [[github-publisher/content/People/Moonie.md|Moonie]]
 - [[./People/Varis|Varis]]
-- [[Varis|Varis]]
+- [[github-publisher/content/People/Varis.md|Varis]]
 - [[./People/Zilver|Zilver]]
-- [[Zilver|Zilver]]
+- [[github-publisher/content/People/Zilver.md|Zilver]]
 
 
 ## Geography
