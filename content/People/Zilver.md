@@ -24,10 +24,12 @@ enemies-with:
 short-desc: A supposed prince from [[Ber-Vusamyr|Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions. [[Noachi|Noachi]] is his babie
 drive: Risk yourself or another for wealth.
 created: 2024-01-01T00:00
-modified: 2024-06-16T16:39:55-05:00
+modified: 2024-06-16T17:00:21-05:00
+img: "[[../zilver.png|zilver.png]]"
 ---
 
 > [!infobox]
+> ![[../zilver.png|zilver.png]]
 > ##### Bio
 > |                |                  |
 > | -------------- | ---------------- |
@@ -49,10 +51,10 @@ modified: 2024-06-16T16:39:55-05:00
 > | **CHA**  | 0     |
 >
 >##### Friendly With
->[Axiom](Axiom),[Moonie](Moonie),[Noachi](Noachi)
+>[Axiom](Axiom), [Moonie](Moonie), [Noachi](Noachi)
 >
 >
->
+>\-
 
 
 
@@ -90,4 +92,3 @@ You send bolts of magical energy at your enemies (Near, Distinctive, Piercing). 
 **Risk**: The missiles aren’t Piercing.
 **Greater**: Your missiles gain the ***Far*** and ***Forceful*** tags.
 
-![[../zilver.png|zilver]]
