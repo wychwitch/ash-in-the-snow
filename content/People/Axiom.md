@@ -17,12 +17,14 @@ occupation:
 hometown: 
 short-desc: A brilliant scholar travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
 created: 2024-01-01T00:00
-modified: 2024-06-16T16:39:33-05:00
+modified: 2024-06-16T17:00:57-05:00
 friendly-with: 
 enemies-with: 
+img: 
 ---
 
 > [!infobox]
+> 
 > ##### Bio
 > |                |                  |
 > | -------------- | ---------------- |
@@ -44,10 +46,10 @@ enemies-with:
 > | **CHA**  | 0     |
 >
 >
+>\-
 >
 >
->
->
+>\-
 
 A brilliant scholar travelling with [[Moonie|Moonie]] and [[Zilver|Zilver]], with Zilver as their ward.
 
