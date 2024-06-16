@@ -18,12 +18,14 @@ occupation: Seems to currently be a hired hand around Brookhaven.
 hometown: 
 short-desc: Seemingly polite, but with a smile like she knows something you haven't figured out yet. Always happy to offer a light.
 created: 2024-05-24T21:47:00
-modified: 2024-06-16T16:39:46-05:00
+modified: 2024-06-16T17:00:42-05:00
 friendly-with: 
 enemies-with: 
+img: "[[Iscin.png]]"
 ---
 
 > [!infobox]
+> ![[../iscin.png|iscin.png]]
 > ##### Bio
 > |                |                  |
 > | -------------- | ---------------- |
@@ -45,10 +47,10 @@ enemies-with:
 > | **CHA**  | 0     |
 >
 >
+>\-
 >
 >
->
->
+>\-
 
 
 Seemingly polite, but with a smile like she knows something you haven't figured out yet. Always happy to offer a light.
@@ -74,4 +76,3 @@ You can move and manipulate fire in a variety of ways - dimming, flaring, sparki
 
 %%
 
-![[../iscin.png|430]]
