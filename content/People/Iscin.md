@@ -16,10 +16,11 @@ ash-class: "[Immolator](Immolator)"
 age: " 20smth 30smth"
 occupation: Seems to currently be a hired hand around Brookhaven.
 hometown: 
-relations: 
 short-desc: Seemingly polite, but with a smile like she knows something you haven't figured out yet. Always happy to offer a light.
 created: 2024-05-24T21:47:00
-modified: 2024-06-15T01:43:15-04:00
+modified: 2024-06-16T16:39:46-05:00
+friendly-with: 
+enemies-with: 
 ---
 
 > [!infobox]
@@ -32,8 +33,7 @@ modified: 2024-06-15T01:43:15-04:00
 > |**Class**         | [Immolator](Immolator)            |
 > |**Age**         |  20smth 30smth            |
 > |**Occupation**  | Seems to currently be a hired hand around Brookhaven.        |
-> |**Hometown**||
-> |**Relations**|  |
+> |**Hometown**|\-|
 > 
 > ##### Stats
 > |      |      |
@@ -43,6 +43,12 @@ modified: 2024-06-15T01:43:15-04:00
 > | **INT**  | 0     |
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
+>
+>
+>
+>
+>
+>
 
 
 Seemingly polite, but with a smile like she knows something you haven't figured out yet. Always happy to offer a light.
@@ -64,7 +70,8 @@ You can move and manipulate fire in a variety of ways - dimming, flaring, sparki
 - Doing something you tell them to do.
 - Fighting to protect you.
 - Favoring you, but only if they don’t already.
-**If they’re an NPC,** they can’t act out against you while Charmed. **If they’re a PC,** you also can spend 1 Charm to inspire or distract them, granting them Advantage or Disadvantage on their next roll.%%
+**If they’re an NPC,** they can’t act out against you while Charmed. **If they’re a PC,** you also can spend 1 Charm to inspire or distract them, granting them Advantage or Disadvantage on their next roll.
+
+%%
 
 ![[../iscin.png|430]]
-
