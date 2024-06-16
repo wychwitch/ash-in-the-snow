@@ -1,200 +1,284 @@
 @use "./base.scss";
+@use "./Callouts.css";
+
+@mixin headings {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        @content;
+    }
+}
+
+
 
 $external-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='0.9em' height='0.9em' viewBox='0 0 24 24'%3E%3Cg fill='none' stroke='%23dc976e' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cpath d='M12 2a14.5 14.5 0 0 0 0 20a14.5 14.5 0 0 0 0-20M2 12h20'/%3E%3C/g%3E%3C/svg%3E");
 
 $internal-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='0.8em' height='0.8em' viewBox='0 0 24 24'%3E%3Cg fill='none' stroke='%238897ca' stroke-linecap='round' stroke-linejoin='round' stroke-width='3'%3E%3Cpath d='M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71'/%3E%3Cpath d='M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71'/%3E%3C/g%3E%3C/svg%3E");
 
-p a.internal, li a.internal{
+p a.internal,
+li a.internal {
     background-color: transparent;
     border-radius: 0;
     border-bottom: 2px solid var(--secondary);
 }
 
-p a.internal:hover, li a.internal:hover{
+p a.internal:hover,
+li a.internal:hover {
     border-bottom: 3px solid var(--tertiary);
     transition: border-bottom 100ms ease-in-out;
 }
-p a.internal::before, li a.internal::before{
+
+p a.internal::before,
+li a.internal::before {
     content: $internal-icon;
     color: var(--secondary);
     margin-right: 0.2rem;
 }
 
 
-p a.external, li a.external{
+p a.external,
+li a.external {
     background-color: transparent;
     border-radius: 0;
     border-bottom: 2px solid var(--secondary);
 }
 
-p a.external:hover, li a.external:hover{
+p a.external:hover,
+li a.external:hover {
     border-bottom: 3px solid var(--tertiary);
     transition: border-bottom 100ms ease-in-out;
 }
-p a.external::after, li a.external::after{
+
+p a.external::after,
+li a.external::after {
     content: $external-icon;
     margin-left: 0.2rem;
 }
 
-.move-trigger{
+.move-trigger {
     font-size: 1.1rem;
-    color:var(--tertiary);
+    color: var(--tertiary);
     font-style: italic;
     font-weight: 300;
-    border-bottom:  3px solid var(--tertiary);;
+    border-bottom: 3px solid var(--tertiary);
+    ;
 }
 
-svg.external-icon{
+svg.external-icon {
     display: none;
 }
 
-
-
-
-/* Style for ITS Wiki Infobox. */
 .callout.callout[data-callout~=infobox] {
-    --callout-color: var(--note, var(--background-primary)); 
-    background: var(--light); /* Background color */
-    border: 1px solid var(--lightgray); /* Border with customizable width and color */
-    box-shadow: none; 
-    width: 300px;
-    margin: 0 8px; /* Margin */
-    padding: 5px; /* Padding */
-    float: right; /* Float to right */
-    border-radius: 1px; /* Border radius */
-    font-size: 16px;
-    color: var(--dark);
-
-    /* Hides Callout Icon */
-    .callout-title {
-        .callout-icon {
+    @include headings {
+        & a {
             display: none;
         }
+
+        text-align: center;
     }
 
-    /* Styles for expanded callout - Honestly don't know what this does functionally,*/
-    /* but visually without it the box looks like garbage and I am over trying to figure out why */
-    &:not(.is-collapsed) > .callout-title {
-        padding: 0;
+    padding-top: 16px;
+
+    h5 {
+        font-size: 1.4rem;
+        text-transform: lowercase;
     }
-    
-    /* Styles for callout title inner */
-    /* Hides the name of the callout box, in this case "Infobox" */
-    .callout-title .callout-title-inner {
+
+    .callout-icon {
         display: none;
     }
-    
-    /* Styles for callout content */
-    .callout-content {
-        margin: 0 !important; /* Add !important to ensure it overrides any existing styles */
-        padding: 0 !important; /* Add !important to ensure it overrides any existing styles */
+
+    @media only screen and (max-width: 480px) {
+        max-width: 100%;
+        float: unset;
     }
 
+    background: #F8F1EE;
 
-/* Styles for tables inside callout content */
-table {
-    width: 100%; /* Set table width to 100% */
-    max-width: 275px; /* Set maximum width for the table */
-    border-collapse: collapse; /* Collapse table borders */
-    margin: 0 auto; /* Center the table horizontally */
 
-    /* Set column widths and styles */
-    td {
-        /* Set styles for table data cells */
-        white-space: pre-wrap;
-        word-wrap: normal;
-        word-break: normal;
-        padding: 0;
-        padding-left: 7px;
-        
-        /* Styles for text in column 1 */
-        &:first-child {
-            font-weight: bold;
-        }
-        /* Set background transparency for odd and even columns */
-        &:nth-child(odd) {
-            background-color: rgba(255, 255, 255, 0.01); /* Adjust transparency as needed */
-        }
-        
-        &:nth-child(even) {
-            background-color: rgba(255, 255, 255, 0.03); /* Adjust transparency as needed */
-        }
-    }
 
-    /* Set row height and remove border from all rows */
-    tr {      
-        &:first-child {/* Set height for heading row */
-            height: 7px;
-        }
-        border: none; /* Remove border from all rows */
-    }
 
-    /* Alternate row colors */
-    tr:nth-child(odd) {
-        background-color: rgba(255, 255, 255, 0.1); /* Adjust transparency as needed */
-    }
-    
-    tr:nth-child(even) {
-        background-color: rgba(255, 255, 255, 0.2); /* Adjust transparency as needed */
-    }
 
-    /* Add hover effect */
-    tr:hover {
-        background-color: rgba(255, 191, 90, 0.5); /* Adjust color and transparency on hover */
-    }
-
-    /* Remove bottom border from table header row and empty header */
-    thead th {
-        border-bottom: none;
-        
-        /* Styles for column headings */
-        &:empty {
-            padding: 0;
-        }
-        
-        &:first-child {
-            background-color: var(--secondary); /* Background color for the first column header */
-        }
-        
-        &:nth-child(2) {
-            background-color: var(--secondary); /* Background color for the second column header */
-        }
-    }
 }
 
-    
-    /* Styles for paragraphs and tables */
-    :is(p, table) {
-        margin-block-start: 0;
-        margin-block-end: 0;
-        margin: 6px; /* this makes the table within the content box look centered.*/
-    }
 
-    /* Styles for heading elements */
-    .callout-content h1, 
-    h2, 
-    h3, 
-    h4, 
-    h5, 
-    h6 {
-        font-size: 20px; /* Set font size for headings */
-        text-align: center !important; /* Align headings to the center */
-        margin: 0;
-        padding: 5px; /* Add padding to headings */
-        color: var(--darkgray)!important; /* Color headings using secondary variable */
-        background: var(--highlight);
-    }
+// /* Style for ITS Wiki Infobox. */
+// .callout.callout[data-callout~=infobox] {
+//     --callout-color: var(--note, var(--background-primary));
+//     background: var(--light);
+//     /* Background color */
+//     border: 1px solid var(--lightgray);
+//     /* Border with customizable width and color */
+//     box-shadow: none;
+//     width: 300px;
+//     margin: 0 8px;
+//     /* Margin */
+//     padding: 5px;
+//     /* Padding */
+//     float: right;
+//     /* Float to right */
+//     border-radius: 1px;
+//     /* Border radius */
+//     font-size: 16px;
+//     color: var(--dark);
+
+//     /* Hides Callout Icon */
+//     .callout-title {
+//         .callout-icon {
+//             display: none;
+//         }
+//     }
+
+//     /* Styles for expanded callout - Honestly don't know what this does functionally,*/
+//     /* but visually without it the box looks like garbage and I am over trying to figure out why */
+//     &:not(.is-collapsed)>.callout-title {
+//         padding: 0;
+//     }
+
+//     /* Styles for callout title inner */
+//     /* Hides the name of the callout box, in this case "Infobox" */
+//     .callout-title .callout-title-inner {
+//         display: none;
+//     }
+
+//     /* Styles for callout content */
+//     .callout-content {
+//         margin: 0 !important;
+//         /* Add !important to ensure it overrides any existing styles */
+//         padding: 0 !important;
+//         /* Add !important to ensure it overrides any existing styles */
+//     }
 
 
-    /* Styles for internal embeds and images */
-    .internal-embed, 
-    img {
-        display: block;
-        margin: auto;
-    /*  max-height: 225px; /* Set max height for images */
-        max-width: 275px; /* Ensure full width */
-    /*  object-fit: cover; /* Crop the image to cover the container */
-    /*  object-position: center top; /* Display the top of the image */
-        border-radius: 1px;
-    }
-}
+//     /* Styles for tables inside callout content */
+//     table {
+//         width: 100%;
+//         /* Set table width to 100% */
+//         max-width: 275px;
+//         /* Set maximum width for the table */
+//         border-collapse: collapse;
+//         /* Collapse table borders */
+//         margin: 0 auto;
+//         /* Center the table horizontally */
+
+//         /* Set column widths and styles */
+//         td {
+//             /* Set styles for table data cells */
+//             white-space: pre-wrap;
+//             word-wrap: normal;
+//             word-break: normal;
+//             padding: 0;
+//             padding-left: 7px;
+
+//             /* Styles for text in column 1 */
+//             &:first-child {
+//                 font-weight: bold;
+//             }
+
+//             /* Set background transparency for odd and even columns */
+//             &:nth-child(odd) {
+//                 background-color: rgba(255, 255, 255, 0.01);
+//                 /* Adjust transparency as needed */
+//             }
+
+//             &:nth-child(even) {
+//                 background-color: rgba(255, 255, 255, 0.03);
+//                 /* Adjust transparency as needed */
+//             }
+//         }
+
+//         /* Set row height and remove border from all rows */
+//         tr {
+//             &:first-child {
+//                 /* Set height for heading row */
+//                 height: 7px;
+//             }
+
+//             border: none;
+//             /* Remove border from all rows */
+//         }
+
+//         /* Alternate row colors */
+//         tr:nth-child(odd) {
+//             background-color: rgba(255, 255, 255, 0.1);
+//             /* Adjust transparency as needed */
+//         }
+
+//         tr:nth-child(even) {
+//             background-color: rgba(255, 255, 255, 0.2);
+//             /* Adjust transparency as needed */
+//         }
+
+//         /* Add hover effect */
+//         tr:hover {
+//             background-color: rgba(255, 191, 90, 0.5);
+//             /* Adjust color and transparency on hover */
+//         }
+
+//         /* Remove bottom border from table header row and empty header */
+//         thead th {
+//             border-bottom: none;
+
+//             /* Styles for column headings */
+//             &:empty {
+//                 padding: 0;
+//             }
+
+//             &:first-child {
+//                 background-color: var(--secondary);
+//                 /* Background color for the first column header */
+//             }
+
+//             &:nth-child(2) {
+//                 background-color: var(--secondary);
+//                 /* Background color for the second column header */
+//             }
+//         }
+//     }
+
+
+//     /* Styles for paragraphs and tables */
+//     :is(p, table) {
+//         margin-block-start: 0;
+//         margin-block-end: 0;
+//         margin: 6px;
+//         /* this makes the table within the content box look centered.*/
+//     }
+
+//     /* Styles for heading elements */
+//     .callout-content h1,
+//     h2,
+//     h3,
+//     h4,
+//     h5,
+//     h6 {
+//         font-size: 20px;
+//         /* Set font size for headings */
+//         text-align: center !important;
+//         /* Align headings to the center */
+//         margin: 0;
+//         padding: 5px;
+//         /* Add padding to headings */
+//         color: var(--darkgray) !important;
+//         /* Color headings using secondary variable */
+//         background: var(--highlight);
+//     }
+
+
+//     /* Styles for internal embeds and images */
+//     .internal-embed,
+//     img {
+//         display: block;
+//         margin: auto;
+//         /*  max-height: 225px; /* Set max height for images */
+//         max-width: 275px;
+//         /* Ensure full width */
+//         /*  object-fit: cover; /* Crop the image to cover the container */
+//         /*  object-position: center top; /* Display the top of the image */
+//         border-radius: 1px;
+//     }
+// }
