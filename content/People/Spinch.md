@@ -32,7 +32,7 @@ enemies-with:
 >[Moonie](Moonie)
 >
 >
->\-
+>
 
 ## Follower Properties:
 
