@@ -1,6 +1,6 @@
 ---
 created: 2024-06-14 12:15
-modified: 2024-06-16T17:15:40-05:00
+modified: 2024-06-23T16:55:39-05:00
 tags:
   - person/npc
   - person/follower
@@ -16,6 +16,7 @@ friendly-with:
   - "[Moonie](Moonie)"
 enemies-with: 
 ---
+
 > [!infobox]
 > ##### Bio
 > |                |                  |
@@ -31,7 +32,7 @@ enemies-with:
 >[Moonie](Moonie)
 >
 >
->
+>\-
 
 ## Follower Properties:
 

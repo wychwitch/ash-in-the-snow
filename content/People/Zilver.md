@@ -24,7 +24,7 @@ enemies-with:
 short-desc: A supposed prince from [[Ber-Vusamyr|Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions. [[Noachi|Noachi]] is his babie
 drive: Risk yourself or another for wealth.
 created: 2024-01-01T00:00
-modified: 2024-06-16T17:22:57-05:00
+modified: 2024-06-26T21:54:57-04:00
 img: "[[../zilver.png|zilver.png]]"
 ---
 
@@ -54,7 +54,7 @@ img: "[[../zilver.png|zilver.png]]"
 >[Axiom](Axiom), [Moonie](Moonie), [Noachi](Noachi)
 >
 >
->
+>\-
 
 
 
