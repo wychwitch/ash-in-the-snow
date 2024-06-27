@@ -1,6 +1,7 @@
 ---
 publish-ash: true
-modified: 2024-06-26T23:04:13-04:00
+modified: 2024-06-27T15:13:58-05:00
+created: 2024-06-26T00:00:00
 ---
 A small little village with a tiny Fallen Sun that somehow manages to keep on trucking. This town has a population of fewer than a hundred people. Despite how small it is, it is just close enough to the usual travel routes that there's a large inn. 
 
@@ -14,6 +15,10 @@ Travellers usually end up swept into the town due to a storm or otherwise gettin
 **Purslane** - local blacksmith rabbitfolk, husband to Fescue, and father to Badger. <br>
 **Fescue** - rabbitfolk, husband to Purslane, and father to Badger. Used to be more religious. <br>
 **Badger** - a young plainsfolk, child of Purslane and Fescue. A ranger in training who's gotten into some trouble. They're no older than 16. In possession of a devoted dog.
+
+**Riki** - Someone Corrick helped out.
+
+**Amaran** - An old lady Corrick helps out.
 
 ### Locations
 
