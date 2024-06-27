@@ -17,14 +17,14 @@ age: early 20s
 occupation: Prince(??)
 hometown: "[Ber-Vusamyr](Ber-Vusamyr) in Hisa"
 friendly-with:
-  - "[Axiom](Axiom)"
+  - "[Axiom](Axiom)  (Friend)"
   - "[Moonie](Moonie)"
-  - "[Noachi](Noachi)"
+  - "[Noachi](Noachi) (babygirl)"
 enemies-with: 
 short-desc: A supposed prince from [[Ber-Vusamyr|Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions. [[Noachi|Noachi]] is his babie
 drive: Risk yourself or another for wealth.
 created: 2024-01-01T00:00
-modified: 2024-06-26T21:54:57-04:00
+modified: 2024-06-27T14:20:14-05:00
 img: "[[../zilver.png|zilver.png]]"
 ---
 
@@ -51,12 +51,17 @@ img: "[[../zilver.png|zilver.png]]"
 > | **CHA**  | 0     |
 >
 >##### Friendly With
->[Axiom](Axiom), [Moonie](Moonie), [Noachi](Noachi)
+>[Axiom](Axiom)  (Friend), [Moonie](Moonie), [Noachi](Noachi) (babygirl)
 >
 >
->\-
+>
 
 
+
+
+### This is a test zilver sorry
+
+<h3><span><p dir="auto">Relationships</p></span></h3><div><ul class="dataview list-view-ul"><li><span></span></li><li><span></span></li><li><span></span></li></ul></div>
 
 
 A supposed prince from [[Ber-Vusamyr|Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions. [[Noachi|Noachi]] is his babie
