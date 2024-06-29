@@ -24,7 +24,7 @@ enemies-with:
 short-desc: A supposed prince from [[Ber-Vusamyr|Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions. [[Noachi|Noachi]] is his babie
 drive: Risk yourself or another for wealth.
 created: 2024-01-01T00:00
-modified: 2024-06-27T15:06:53-05:00
+modified: 2024-06-29T16:21:43-05:00
 img: "[[../zilver.png|zilver.png]]"
 ---
 
@@ -50,19 +50,14 @@ img: "[[../zilver.png|zilver.png]]"
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18869:21)
-    at evalInContext (plugin:dataview:18870:7)
-    at asyncEvalInContext (plugin:dataview:18880:32)
-    at DataviewJSRenderer.render (plugin:dataview:18906:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18448:14)
-    at e.load (app://obsidian.md/app.js:1:1166483)
-    at DataviewApi.executeJs (plugin:dataview:19449:18)
-    at DataviewCompiler.dataviewJS (plugin:obsidian-mkdocs-publisher:32:51054)
-    at convertDataviewQueries (plugin:obsidian-mkdocs-publisher:35:1360)
-    at mainConverting (plugin:obsidian-mkdocs-publisher:44:1697)</pre>
 
 A supposed prince from [[Ber-Vusamyr|Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions. [[Noachi|Noachi]] is his babie
+
+<h5><span><p dir="auto">Relationships</p></span></h5><p><span><ul dir="auto">
+<li dir="auto"><a class="internal-link" data-href="Axiom" href="Axiom" target="_blank" rel="noopener">Axiom</a>&nbsp; (Friend)</li>
+<li dir="auto"><a class="internal-link" data-href="Moonie" href="Moonie" target="_blank" rel="noopener">Moonie</a></li>
+<li dir="auto"><a class="internal-link" data-href="Noachi" href="Noachi" target="_blank" rel="noopener">Noachi</a> (babygirl)</li>
+</ul></span></p>
 ### Background
 #### Seer
 Whether it be due to birth, circumstance, or utter enigma, magic is as natural as breath to you.
