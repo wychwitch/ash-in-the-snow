@@ -5,7 +5,7 @@ publish-ash: true
 title: Home
 description: This is a world of snow and warmth. A world of disconnection and unbreakable bonds. This is the story of Ash in the Snow.
 cssclasses: 
-modified: 2024-06-27T14:10:23-05:00
+modified: 2024-06-29T15:10:46-05:00
 created: 2024-01-01T00:00
 ---
 This is a world of snow and warmth. A world of disconnection and unbreakable bonds. This is the story of Ash in the Snow.
@@ -25,6 +25,8 @@ This is a world of snow and warmth. A world of disconnection and unbreakable bon
 - [[./People/Iscin|Iscin]]
 - [[./People/Moonie|Moonie]]
 - [[./People/Varis|Varis]]
+- [[./People/Varis.sync-conflict-20240629-144934-DLWMZUJ|Varis.sync-conflict-20240629-144934-DLWMZUJ]]
+- [[./People/Varis.sync-conflict-20240629-144936-DLWMZUJ|Varis.sync-conflict-20240629-144936-DLWMZUJ]]
 - [[./People/Zilver|Zilver]]
 
 
