@@ -1,6 +1,6 @@
 ---
 created: 2024-05-24 21:48
-modified: 2024-06-30T23:49:51-05:00
+modified: 2024-06-30T23:59:16-05:00
 publish-ash: true
 ---
 
@@ -10,6 +10,9 @@ publish-ash: true
 >     - [[../Regions/Hisa|Hisa]]
 > 
 > 
+
+> [!NOTE] Havenloft Roads
+> ![[../Havenloft Road and Trails map.png|Havenloft Road and Trails map]]
 
 
 
@@ -30,5 +33,3 @@ Despite how cut off people are from one another, there are still many roads that
             - The third winter one is always the worst
 
 
-> [!NOTE] Havenloft Roads
-> ![[../Havenloft Road and Trails map.png|Havenloft Road and Trails map]]
