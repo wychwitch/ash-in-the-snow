@@ -1,15 +1,15 @@
 ---
 publish-ash: true
-modified: 2024-06-30T22:59:05-05:00
+modified: 2024-06-30T23:33:41-05:00
 created: 2024-06-26T00:00:00
-region: "[[Hisa]]"
+region: "[[../Regions/Hisa|Hisa]]"
 ---
 
 > [!NOTE] Brookhaven on the map
 > ![[../../Brookhaven Location.png|Brookhaven Location]]
 
 
-A small little village in the southeast [[../Regions/Hisa|hisa region]] with a tiny Fallen Sun that somehow manages to keep on trucking. This town has a population of fewer than a hundred people. Despite how small it is, it is just close enough to the usual travel routes that there's a large inn. 
+A small little village in the southeast [[../Regions/Hisa|Hisa]] with a tiny Fallen Sun that somehow manages to keep on trucking. This town has a population of fewer than a hundred people. Despite how small it is, it is just close enough to the usual travel routes that there's a large inn. 
 
 Travellers usually end up swept into the town due to a storm or otherwise getting lost, and the folk here are warm and welcoming to their guests. Most of the villagers are rabbitfolk, though there are various other races that found themselves settled down.
 
