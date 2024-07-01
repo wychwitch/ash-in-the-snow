@@ -1,12 +1,12 @@
 ---
 publish-ash: true
-modified: 2024-06-30T23:33:41-05:00
+modified: 2024-07-01T00:11:03-05:00
 created: 2024-06-26T00:00:00
 region: "[[../Regions/Hisa|Hisa]]"
 ---
 
 > [!NOTE] Brookhaven on the map
-> ![[../Brookhaven Location.png|Brookhaven Location]]
+> ![[../Brookhaven On Map.png|Brookhaven On Map]]
 
 
 A small little village in the southeast [[../Regions/Hisa|Hisa]] with a tiny Fallen Sun that somehow manages to keep on trucking. This town has a population of fewer than a hundred people. Despite how small it is, it is just close enough to the usual travel routes that there's a large inn. 
@@ -20,15 +20,11 @@ Travellers usually end up swept into the town due to a storm or otherwise gettin
 **Mayor Vitelotte** - the rabbitfolk mayor of Brookhaven. Prefers being called Lottie. An old and kind woman. <br>
 **Purslane** - local blacksmith rabbitfolk, husband to Fescue, and father to Badger. <br>
 **Fescue** - rabbitfolk, husband to Purslane, and father to Badger. Used to be more religious. <br>
-**Badger** - a young plainsfolk, child of Purslane and Fescue. A ranger in training who's gotten into some trouble. They're no older than 16. In possession of a devoted dog.
-
-**Riki** - Someone Corrick helped out.
-
-**Amaran** - An old lady Corrick helps out.
-
-**Vanto** - A diviner who went with Badger and Emera to find the leyfount for Brookhaven's stoking. Currently missing. 
-
-**Emera** - Helping with the divining for the leyfount for Brookhaven's stoking. Currently missing.
+**Badger** - a young plainsfolk, child of Purslane and Fescue. A ranger in training who's gotten into some trouble. They're no older than 16. In possession of a devoted dog. <br>
+**Riki** - Someone Corrick helped out.<br>
+**Amaran** - An old lady Corrick helps out.<br>
+**Vanto** - A diviner who went with Badger and Emera to find the leyfount for Brookhaven's stoking. Currently missing. <br>
+**Emera** - An Older Dwarf Hedgeknight who went to help search for the leyfount needed for Brookhaven's stoking. Currently missing.
 ### Locations
 
 **Tavern-plus-Inn** - the local tavern & also inn owned by Darielle. Contains a tavern space with kitchen downstairs and rooms for guests upstairs. 
