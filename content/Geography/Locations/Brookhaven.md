@@ -1,9 +1,15 @@
 ---
 publish-ash: true
-modified: 2024-06-29T16:24:37-05:00
+modified: 2024-06-30T22:59:05-05:00
 created: 2024-06-26T00:00:00
+region: "[[Hisa]]"
 ---
-A small little village with a tiny Fallen Sun that somehow manages to keep on trucking. This town has a population of fewer than a hundred people. Despite how small it is, it is just close enough to the usual travel routes that there's a large inn. 
+
+> [!NOTE] Brookhaven on the map
+> ![[../../Brookhaven Location.png|Brookhaven Location]]
+
+
+A small little village in the southeast [[../Regions/Hisa|hisa region]] with a tiny Fallen Sun that somehow manages to keep on trucking. This town has a population of fewer than a hundred people. Despite how small it is, it is just close enough to the usual travel routes that there's a large inn. 
 
 Travellers usually end up swept into the town due to a storm or otherwise getting lost, and the folk here are warm and welcoming to their guests. Most of the villagers are rabbitfolk, though there are various other races that found themselves settled down.
 
@@ -20,6 +26,11 @@ Travellers usually end up swept into the town due to a storm or otherwise gettin
 
 **Amaran** - An old lady Corrick helps out.
 
+**Vanto** - A diviner who went with Badger and Emera to find the leyfount for Brookhaven's stoking. Currently missing. 
+
+**Emera** - Helping with the divining for the leyfount for Brookhaven's stoking. Currently missing.
 ### Locations
 
 **Tavern-plus-Inn** - the local tavern & also inn owned by Darielle. Contains a tavern space with kitchen downstairs and rooms for guests upstairs. 
+
+**Sending Stone** - Brookhaven's very own [[../../Lore/Sending Stone|Sending Stone]], complete with a wizard on standby to keep it running and connected to the nearest Sending Stone Hub.
