@@ -6,7 +6,7 @@ region: "[[../Regions/Hisa|Hisa]]"
 ---
 
 > [!NOTE] Brookhaven on the map
-> ![[../../Brookhaven Location.png|Brookhaven Location]]
+> ![[../Brookhaven Location.png|Brookhaven Location]]
 
 
 A small little village in the southeast [[../Regions/Hisa|Hisa]] with a tiny Fallen Sun that somehow manages to keep on trucking. This town has a population of fewer than a hundred people. Despite how small it is, it is just close enough to the usual travel routes that there's a large inn. 
@@ -33,4 +33,4 @@ Travellers usually end up swept into the town due to a storm or otherwise gettin
 
 **Tavern-plus-Inn** - the local tavern & also inn owned by Darielle. Contains a tavern space with kitchen downstairs and rooms for guests upstairs. 
 
-**Sending Stone** - Brookhaven's very own [[../../Lore/Sending Stone|Sending Stone]], complete with a wizard on standby to keep it running and connected to the nearest Sending Stone Hub.
+**Sending Stone** - Brookhaven's very own [[../Lore/Sending Stone|Sending Stone]], complete with a wizard on standby to keep it running and connected to the nearest Sending Stone Hub.

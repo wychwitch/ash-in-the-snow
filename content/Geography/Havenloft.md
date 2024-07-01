@@ -1,16 +1,16 @@
 ---
 created: 2024-05-24 21:48
-modified: 2024-06-30T23:33:06-05:00
+modified: 2024-06-30T23:42:42-05:00
 publish-ash: true
 ---
 
 > [!NOTE] Havenloft and its regions
 > ![[../Havenloft Regions.png|Havenloft Regions]]
-> [[./Regions/Hisa|Hisa]]
+> [[../Regions/Hisa|Hisa]]
 
 
 
-Havenloft is the colloquial name given to the large continent (and nearb[y islands) north of the equator of the world. This name can vary between societies and their people, but like Common (the still mostly ubiquitous language of the old, continent-spanning kingdom), people mostly recognize it as such. Other continents and countries exist, but due to massive glaciers only few crews are brave enough to travel to distant lands. 
+Havenloft is the colloquial name given to the large continent (and nearby islands) north of the equator of the world. This name can vary between societies and their people, but like Common (the still mostly ubiquitous language of the old, continent-spanning kingdom), people mostly recognize it as such. Other continents and countries exist, but due to massive glaciers only few crews are brave enough to travel to distant lands. 
 
 Looking from above, the continent of Havenloft is a shattered society. Whatever remnants of a once proud and uniting kingdom exist only survive through tales and snow-buried ruins. Instead, people gather around pockets of warmth provided by floating [[../Lore/Fallen Suns|Fallen Suns]] and form their own societies. So cut off from each other, many have developed their own cultures and beliefs. There exists many different sets of religious beliefs and cultures in isolated groups. 
 
