@@ -1,7 +1,7 @@
 ---
 publish-ash: true
 ---
-
+https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html
 ### Inspirations
 [Great Intelligent Undead ideas](https://imgur.com/gallery/OfMeDMD)
 ### Generators
