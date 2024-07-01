@@ -1,11 +1,13 @@
 ---
 created: 2024-05-24 21:48
-modified: 2024-06-30T22:40:45-05:00
+modified: 2024-06-30T23:08:37-05:00
 publish-ash: true
 ---
 
 > [!NOTE] Havenloft and its regions
 > ![[../Havenloft Regions.png|Havenloft Regions]]
+>  - [[./Regions/Hisa|Hisa]]: \-
+> 
 
 
 

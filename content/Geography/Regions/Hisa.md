@@ -10,6 +10,7 @@ created: 2024-01-01T00:00:00
 The region in which one can find towns such as [[../Locations/Brookhaven|Brookhaven]].
 
 Locations:
+- [[../Locations/Ber-Vusamyr|Ber-Vusamyr]]: \-
 - [[../Locations/Brookhaven|Brookhaven]]: \-
 - [[../Locations/Pyreroot|Pyreroot]]: \-
 
