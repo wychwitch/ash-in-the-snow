@@ -25,12 +25,6 @@ created: 2024-01-01T00:00:00
 - [[./Varis|Varis]] [ He/Him [Bard](Bard) ]: 
     - Into 'gay instruments' and 'gossip if it's nice.' Matches his outfits to his hair dye and vice versa.
 
-- [[./Varis.sync-conflict-20240629-144934-DLWMZUJ|Varis.sync-conflict-20240629-144934-DLWMZUJ]] [ He/Him [Bard](Bard) ]: 
-    - Into 'gay instruments' and 'gossip if it's nice.' Matches his outfits to his hair dye and vice versa.
-
-- [[./Varis.sync-conflict-20240629-144936-DLWMZUJ|Varis.sync-conflict-20240629-144936-DLWMZUJ]] [ He/Him [Bard](Bard) ]: 
-    - Into 'gay instruments' and 'gossip if it's nice.' Matches his outfits to his hair dye and vice versa.
-
 - [[./Zilver|Zilver]] [ He/They [Wizard](Wizard) - Seer ]: 
     - A supposed prince from [[Ber-Vusamyr|Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions. [[Noachi|Noachi]] is his babie
 
