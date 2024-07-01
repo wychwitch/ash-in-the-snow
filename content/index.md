@@ -5,7 +5,7 @@ publish-ash: true
 title: Home
 description: This is a world of snow and warmth. A world of disconnection and unbreakable bonds. This is the story of Ash in the Snow.
 cssclasses: 
-modified: 2024-06-29T21:18:54-04:00
+modified: 2024-06-30T23:57:24-05:00
 created: 2024-01-01T00:00
 ---
 This is a world of snow and warmth. A world of disconnection and unbreakable bonds. This is the story of Ash in the Snow.
@@ -13,9 +13,10 @@ This is a world of snow and warmth. A world of disconnection and unbreakable bon
 *Embed Photo by <a href="https://unsplash.com/@michael75?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Michael</a> on <a href="https://unsplash.com/photos/snow-covered-pine-tree-under-cloudy-sky-S4lRLPNs_P0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>*
 
 ## Important Links
-[[./People/People Landing|People Landing]]
-[[./Meta/Chasing Adventure Info/Moves/Moves Landing|Moves Landing]]
-[[./Lore/Mysteries|Mysteries]]
+- [[./People/People Landing|People Landing]]
+- [[./Meta/Chasing Adventure Info/Moves/Moves Landing|Moves Landing]]
+- [[./Lore/Mysteries|Mysteries]]
+- [[./Geography/Geography Landing|Geography Landing]]
 
 ### PCs
 - [[./People/Axiom|Axiom]]
