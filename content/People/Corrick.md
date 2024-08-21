@@ -18,13 +18,13 @@ occupation: "'Himbo'"
 hometown: 
 short-desc: Like a golden retriever. Big, sweet, helpful, and largely rectangular.
 created: 2024-01-01T00:00
-modified: 2024-07-01T00:03:23-05:00
+modified: 2024-08-21T13:22:28-05:00
 cssclasses:
   - page-white
 friendly-with:
-  - Amaran
-  - Riki
-  - Derielle (Boss at Tavern-Plus-Inn)
+  - "[Riki](Brookhaven#people)"
+  - "[Derielle](Brookhaven#people)  (Boss at Tavern-Plus-Inn)"
+  - "[Amaran](Brookhaven#people)"
 enemies-with: 
 img: "[[../corrick.png|corrick.png]]"
 ---
@@ -51,11 +51,11 @@ img: "[[../corrick.png|corrick.png]]"
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
 >
+>
+>  <h5><span><p dir="auto">Relationships</p></span></h5><p><span><ul>
+> <li dir="auto"><a class="internal-link" data-href="Brookhaven#people" href="Brookhaven#people" target="_blank" rel="noopener nofollow">Riki</a></li>
+> <li dir="auto"><a class="internal-link" data-href="Brookhaven#people" href="Brookhaven#people" target="_blank" rel="noopener nofollow">Derielle</a>&nbsp; (Boss at Tavern-Plus-Inn)</li>
+> <li dir="auto"><a class="internal-link" data-href="Brookhaven#people" href="Brookhaven#people" target="_blank" rel="noopener nofollow">Amaran</a></li>
+> </ul></span></p>
 
 Like a golden retriever. Big, sweet, helpful, and largely rectangular.
-
-<h5><span><p dir="auto">Relationships</p></span></h5><p><span><ul dir="auto">
-<li dir="auto">Amaran</li>
-<li dir="auto">Riki</li>
-<li dir="auto">Derielle (Boss at Tavern-Plus-Inn)</li>
-</ul></span></p>

@@ -18,7 +18,7 @@ occupation: Seems to currently be a hired hand around Brookhaven.
 hometown: 
 short-desc: Seemingly polite, but with a smile like she knows something you haven't figured out yet. Always happy to offer a light.
 created: 2024-05-24T21:47:00
-modified: 2024-06-29T16:21:17-05:00
+modified: 2024-08-21T13:19:25-05:00
 friendly-with: 
 enemies-with: 
 img: "[[Iscin.png]]"
@@ -46,6 +46,8 @@ img: "[[Iscin.png]]"
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
 >
+>
+>  
 
 Seemingly polite, but with a smile like she knows something you haven't figured out yet. Always happy to offer a light.
 

@@ -17,7 +17,7 @@ occupation: Diplomatic Attaché of the City of Hillcrest
 hometown: 
 short-desc: Into 'gay instruments' and 'gossip if it's nice.' Matches his outfits to his hair dye and vice versa.
 created: 2024-01-01T00:00
-modified: 2024-06-29T16:26:29-05:00
+modified: 2024-08-21T13:19:05-05:00
 cssclasses: 
 friendly-with: 
 enemies-with: 
@@ -46,7 +46,7 @@ img: "[[../varis.png|varis.png]]"
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
 >
+>
+>  
 
 Into 'gay instruments' and 'gossip if it's nice.' Matches his outfits to his hair dye and vice versa.
-
-
