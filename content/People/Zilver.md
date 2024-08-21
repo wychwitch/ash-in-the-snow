@@ -24,7 +24,7 @@ enemies-with:
 short-desc: A supposed prince from [[Ber-Vusamyr|Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions. [[Noachi|Noachi]] is his babie
 drive: Risk yourself or another for wealth.
 created: 2024-01-01T00:00
-modified: 2024-06-29T16:21:43-05:00
+modified: 2024-08-21T13:17:07-05:00
 img: "[[../zilver.png|zilver.png]]"
 ---
 
@@ -50,14 +50,15 @@ img: "[[../zilver.png|zilver.png]]"
 > | **WIS**  | 0     |
 > | **CHA**  | 0     |
 >
+>
+>  <h5><span><p dir="auto">Relationships</p></span></h5><p><span><ul>
+> <li dir="auto"><a class="internal-link" data-href="Axiom" href="Axiom" target="_blank" rel="noopener nofollow">Axiom</a>&nbsp; (Friend)</li>
+> <li dir="auto"><a class="internal-link" data-href="Moonie" href="Moonie" target="_blank" rel="noopener nofollow">Moonie</a></li>
+> <li dir="auto"><a class="internal-link" data-href="Noachi" href="Noachi" target="_blank" rel="noopener nofollow">Noachi</a> (babygirl)</li>
+> </ul></span></p>
 
 A supposed prince from [[Ber-Vusamyr|Ber-Vusamyr]]. [[Axiom|Axiom]] and [[Moonie|Moonie]] are their companions. [[Noachi|Noachi]] is his babie
 
-<h5><span><p dir="auto">Relationships</p></span></h5><p><span><ul dir="auto">
-<li dir="auto"><a class="internal-link" data-href="Axiom" href="Axiom" target="_blank" rel="noopener">Axiom</a>&nbsp; (Friend)</li>
-<li dir="auto"><a class="internal-link" data-href="Moonie" href="Moonie" target="_blank" rel="noopener">Moonie</a></li>
-<li dir="auto"><a class="internal-link" data-href="Noachi" href="Noachi" target="_blank" rel="noopener">Noachi</a> (babygirl)</li>
-</ul></span></p>
 ### Background
 #### Seer
 Whether it be due to birth, circumstance, or utter enigma, magic is as natural as breath to you.
